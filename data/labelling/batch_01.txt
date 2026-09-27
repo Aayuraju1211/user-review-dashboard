@@ -1,0 +1,121 @@
+# Batch 1: reviews 1-120 (Jun 2025 - Oct 2025). Hand-labelled v1.
+1 | study_modules="crisp and clear information" |
+2 | study_modules="Clear learning path"; progress_tracking="tracking of my progress" |
+3 | pyq_practice="practicing pyq" |
+4 | easy_ui="the interface has made it so easy" |
+5 | mcq_quality="detailed solution"; easy_ui="user friendly"; daily_targets="crack my daily goal" |
+6 | mcq_quality="Detailed solutions"; daily_targets="Daily targets has helped me"; pyq_practice="The quality content, PYQ" |
+7 | pyq_practice="good for practising pyqs" |
+8 | web_parity="Hope the team adds the AI chat feature to the app soon"; mcq_quality="solving MCQs on the phone feels a little more intuitive" |
+9 | mcq_quality="their MCQ practice improved my accuracy" |
+10 | mcq_quality="mcq created by superkalam AI"; progress_tracking="helps to track your preparation" |
+11 | pyq_practice="PYQ practice"; ai_doubts="instant doubt-solving"; daily_targets="boosted my consistency" |
+12 | | LC
+13 | | LC
+14 | study_modules="concept clarity"; daily_targets="daily traget help to focus everyday" |
+15 | all_in_one="get content in one go" |
+16 | | LC
+17 | | LC
+18 | | LC
+19 | | LC
+20 | all_in_one="I no longer have to practice MCQ/PYQ from multiple places"; web_parity="Waiting for their mains evaluation to launch on the app soon" |
+21 | | LC
+22 | all_in_one="One-stop solution"; easy_ui="The UI is amazing"; study_modules="the content is top-notch" |
+23 | mcq_quality="The MCQs are well-designed"; easy_ui="Clean UI"; progress_tracking="helpful performance tracking" |
+24 | | LC
+25 | affordable="we can use this app for free" |
+26 | mcq_quality="Good set of MCQs" |
+27 | study_modules="excellent gs preparation course"; eval_quality="mains paper checking feature is very helpful" |
+28 | optional_subjects="Can develop app with optional subjects also" | SEG:working_pro
+29 | eval_quality="I've used it for mains evaluation" | SEG:other_exams
+30 | mcq_quality="MCQ generation on any topic"; current_affairs="covering current affairs in a comprehensive manner" |
+31 | | LC
+32 | | LC
+33 | daily_targets="Helps me stay regular"; eval_quality="The mains answer evaluation and feedback really help me improve" |
+34 | study_modules="breaks down complex topics into digestible formats"; progress_tracking="real-time progress tracking"; mcq_quality="The MCQ practice" |
+35 | web_parity="awaited for the mains prep on the app"; easy_ui="It's great using the app,convenient" |
+36 | | LC
+37 | paywall_limits="we can only use 25 MCQ per day" |
+38 | study_modules="Subjects are divided into Chapters"; eval_quality="mains copy evaluation" |
+39 | study_modules="helped in more clarity of the topic"; mcq_quality="practising MCQs" |
+40 | | LC
+41 | easy_ui="very simple to use"; study_modules="the language is easy to understand" |
+42 | all_in_one="complete package for UPSC" |
+43 | | LC
+44 | easy_ui="what an amazing UI" |
+45 | current_affairs="daily Current Affairs pdf and Monthly Magazine" |
+46 | daily_targets="maintain consistency" |
+47 | | LC SEG:other_exams
+48 | study_modules="The content is too apt and upto the upsc patter"; progress_tracking="tracking my upsc preparation on a daily basis" |
+49 | support_unresolved="no contacts are available" |
+50 | mcq_quality="daily practice of prelims question"; pyq_practice="previous year question" |
+51 | | LC
+52 | desktop_app="why this application not download on laptop" | SEG:desktop
+53 | | LC
+54 | mcq_quality="find questions and solve them on all the topics" |
+55 | | LC
+56 | eval_quality="Mains evaluation feature is great" |
+57 | | LC
+58 | eval_speed="Mains answer evaluation in just few seconds" |
+59 | | LC
+60 | dark_mode="please add dark theme" |
+61 | daily_targets="stay on track, stay motivated" |
+62 | study_modules="The learning is super structured"; daily_targets="It keeps me on track" | MM S:pos
+63 | | LC
+64 | mcq_quality="types of MCQ"; pyq_practice="pyq practice"; study_modules="notes also include" |
+65 | | LC
+66 | pyq_practice="PYQs"; eval_quality="the mains evaluation"; ai_doubts="doubt-clearing with the Super Kalam bot"; easy_ui="overall clean interface" |
+67 | study_modules="material for gs modules is pointed and easy to understand"; affordable="affordable and reasonable"; current_affairs="current affairs are very easy and simplified"; progress_tracking="weekly reports" |
+68 | daily_targets="stay focused and discipline" |
+69 | daily_targets="The daily targets make it easier to stay on track" |
+70 | mentors="Mentors and Classes are very good"; all_in_one="Everything is here which is necessary" |
+71 | daily_targets="attempt questions daily to maintain streaks"; eval_speed="The answer evaluation is also so quick" |
+72 | | LC
+73 | | LC
+74 | too_expensive="could lower price for packages"; billing_issues="remove the compulsory save the card option"; mcq_quality="Great platform for practicing mcqs" |
+75 | current_affairs="helps alot in current affairs and MCQ and magazines are amazing" |
+76 | | LC
+77 | mcq_quality="Every explanation is phenomenal" |
+78 | | LC
+79 | eval_speed="evaluate our mains answers within seconds"; current_affairs="monthly magazines as well as current affairs"; pyq_practice="we can attempt the pyqs of mains" |
+80 | pyq_practice="main pyq and prelims pyq tool" |
+81 | study_modules="turned out to be a pleasant surprise" |
+82 | | LC
+83 | | LC
+84 | daily_targets="Love the streaks feature"; easy_ui="smooth experience" |
+85 | eval_speed="instant answer evaluation"; progress_tracking="tracking progress and improving weak areas"; daily_targets="personalized study plans" |
+86 | ipad_layout="ipad may iska interface phone ki size kaa aata hain" | SEG:ipad
+87 | progress_tracking="continuously analyse yourself" | SEG:paid
+88 | | LC
+89 | paywall_limits="please provide customised purchase options" |
+90 | mcq_quality="daily Mcq practices" |
+91 | study_modules="interesting way of modules"; eval_quality="almost accurate mains answer evaluation"; mentors="best teachers and mentors" |
+92 | | LC
+93 | all_in_one="everything that an UPSC aspirant requires on a daily basis"; ai_doubts="AI based instan doubt solving"; affordable="affordable as well" |
+94 | | LC
+95 | mcq_quality="MCQ and pyq are well solved" |
+96 | mcq_quality="it explains why"; progress_tracking="Weekly reports are also useful" |
+97 | | LC
+98 | easy_ui="super smooth and well designed"; daily_targets="Daily MCQ practie keeps me consistent" |
+99 | affordable="affordable app" |
+100 | | LC
+101 | ai_doubts="Best Bot" |
+102 | | LC
+103 | | LC
+104 | study_modules="solid content" |
+105 | progress_tracking="finding ur weak areas" |
+106 | | LC
+107 | | LC
+108 | easy_ui="The UI is exceptionally intuitive"; ai_doubts="The integration of AI is not only innovative" |
+109 | | LC
+110 | eval_quality="AI-based evaluation"; study_modules="Content is top-notch, NCERT-like"; affordable="Cost-efficiency" |
+111 | eval_speed="real time mains answer evaluation provides immediate feedback"; ai_doubts="Ask Superkalam" |
+112 | hindi_medium="why you are not covering hindi medium students" | SEG:hindi_medium
+113 | easy_ui="Content, interface and convenience everything is on spot"; daily_targets="It turned my doomscrolling into Cse preparation" |
+114 | | LC
+115 | hindi_medium="please hindi medium kr do" | SEG:hindi_medium
+116 | mcq_quality="practicing questions on daily basis" |
+117 | | LC
+118 | pyq_practice="solving prelims pyq's" |
+119 | study_modules="easy module strategy to cover syllabus in less time"; all_in_one="one stop solution" |
+120 | eval_speed="within 1 minute"; eval_quality="best level evaluation" |

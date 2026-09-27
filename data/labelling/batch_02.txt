@@ -1,0 +1,121 @@
+# Batch 2: reviews 121-240 (Oct 2025 - Feb 2026). Hand-labelled v1.
+121 | | LC
+122 | mcq_quality="very helpful for Mcqs practice" |
+123 | | LC
+124 | | LC
+125 | | LC
+126 | | LC
+127 | | LC
+128 | | LC
+129 | | LC
+130 | affordable="totally free" |
+131 | affordable="BONUS IS IT'S PRICE POINT" | COMP:Coaching_institutes/were_better="EVEN BETTER IN SOME STUFF THAN A COACHING INSTITUTE"
+132 | | LC
+133 | | LC
+134 | eval_quality="rational way of evaluation" |
+135 | | LC
+136 | | LC
+137 | mcq_quality="fabulous for prelims practice" |
+138 | | LC
+139 | study_modules="Well Structured" |
+140 | study_modules="best modules" |
+141 | study_modules="practising concepts very well" |
+142 | | LC
+143 | app_crash="sometimes I doesnt open" |
+144 | | LC
+145 | | LC
+146 | | LC
+147 | web_parity="I couldn't find the AI for doubt clearing in this App which is available on the site" |
+148 | easy_ui="easy to use"; affordable="free source for daily MCQ test"; pyq_practice="ncert or pyq questions" |
+149 | content_errors="some sentences in the learning section ate incomplete" |
+150 | | LC
+151 | app_crash="unable to open the app" | CR:locked_out="unable to open the app"
+152 | eval_quality="UPSC answer writing ke liye best approach"; hindi_medium="please agar Hindi medium she hota" | SEG:hindi_medium
+153 | | LC
+154 | | LC
+155 | | LC
+156 | | LC
+157 | | LC
+158 | pyq_practice="pyq practice" |
+159 | content_gaps="Lots of subject are missing"; too_expensive="Not worth 600rs"; study_modules="Good for basic concept" |
+160 | | LC
+161 | current_affairs="Current affair is excellent" |
+162 | mcq_quality="AI daily MCQ"; eval_quality="mains ans writing check" |
+163 | mcq_quality="nice app for self testing" |
+164 | | LC
+165 | | LC
+166 | eval_unfair="biased in marks" |
+167 | content_sourcing="all copyright content" |
+168 | | LC
+169 | current_affairs="daily news analysis" |
+170 | mcq_quality="topic wise questions"; study_modules="proper modules"; daily_targets="motivated to maintain streaks" |
+171 | | LC
+172 | | LC
+173 | eval_quality="Answers analysis"; pyq_practice="PYQ practices"; daily_targets="consistently stay focused" |
+174 | paywall_limits="most of the options are in premium" | S:mix
+175 | web_parity="They expect users to study on the phone for all content"; too_expensive="total waste of money for me" | SEG:desktop,paid COMP:PrayasAI/theyre_better="PrayasAI is better" COMP:ChatGPT/theyre_better="use Chatgpt for the content"
+176 | | LC
+177 | | LC
+178 | pyq_practice="making pyq practice so systematic" |
+179 | easy_ui="user friendly and simple"; mcq_quality="daily MCQs for prelims in one place"; daily_targets="I like the small daily limit" |
+180 | study_modules="give 360 degree angle view on concepts" |
+181 | eval_quality="nice aap for evaluation answer"; paywall_limits="after some days ask to pay" |
+182 | news_gaps="pls upload magazine" |
+183 | all_in_one="all in one platform" | SEG:other_exams
+184 | all_in_one="all at one place"; eval_quality="mains evaluation" |
+185 | | LC
+186 | | LC
+187 | dark_mode="the dark mode option you have provided is not working" |
+188 | ipad_layout="not fully optimised for iPad" | SEG:ipad
+189 | | LC
+190 | | LC
+191 | eval_quality="evaluation of my answer like a teacher" |
+192 | | LC
+193 | | LC
+194 | | LC
+195 | hindi_medium="please provide hindi language support" | SEG:hindi_medium
+196 | | LC
+197 | | LC
+198 | | LC
+199 | | LC
+200 | billing_issues="Auto deduction money" | CR:wrong_charge="Auto deduction money" SEG:paid
+201 | web_parity="features of phone available in laptop screen as well"; study_modules="lots of useful content available" | SEG:desktop
+202 | easy_ui="The new dark mode is well done" |
+203 | eval_quality="Main's copy analysis"; current_affairs="daily new articles" |
+204 | study_modules="Notes,quizzes and current affairs are perfectly aligned" | SEG:other_exams
+205 | study_modules="clear order to preparation" |
+206 | app_glitches="the screen loading multiple times" |
+207 | | LC
+208 | ai_doubts="too good for doubt clearing"; mcq_quality="practicing mcq" |
+209 | | LC
+210 | pyq_practice="practice PYQs and get real-time checks" |
+211 | | LC
+212 | ipad_layout="make it I pad compatible version" | SEG:ipad
+213 | misleading_ads="The ads are lying"; too_expensive="super expensive" |
+214 | | LC
+215 | paywall_limits="asking for a subscription for basic notes" |
+216 | class_language="Hindi only they speak in live classes" | SEG:paid
+217 | | LC
+218 | current_affairs="i love Daily current affairs quizzes"; daily_quizzes="sunday there's no quize"; pyq_practice="topic-wise PYQ practice" |
+219 | | LC
+220 | | LC
+221 | | LC
+222 | too_expensive="700 ₹ per month" |
+223 | eval_quality="instant and good Answer Evaluation"; issue_reporting="provide a technical issue feedback option" |
+224 | progress_tracking="providing true insights of your preparation"; mcq_quality="practice a lot of question" |
+225 | pyq_practice="PYQ practice" |
+226 | pyq_practice="free access to pyq of prelims and mains" |
+227 | eval_speed="instant review of the daily mains answer"; progress_tracking="weekly analysis of your performance" |
+228 | affordable="absolutely free of cost"; mcq_quality="amazing prelims daily MCQ"; daily_targets="Daily Target can be set up" |
+229 | | LC
+230 | pyq_practice="Pyqs"; current_affairs="news analysis" |
+231 | current_affairs="questions integrated with current affairs"; progress_tracking="help track progress" |
+232 | | LC
+233 | pyq_practice="best app for pyq analysis" |
+234 | pyq_practice="pyq analysis section"; current_affairs="current affairs section with practice mcq" |
+235 | easy_ui="flexible to use anywhere anytime" |
+236 | daily_targets="boosting my consistency"; all_in_one="all the resources at the same place"; app_glitches="so that it does not glitch"; content_gaps="mains aspects are lacking" |
+237 | | LC
+238 | | LC
+239 | daily_targets="daily targets that will really boost" |
+240 | pyq_practice="best app for pyq/MCQ" |

@@ -1,0 +1,116 @@
+# Batch 4: reviews 361-475 (May 2026 - Sep 2026). Hand-labelled v1.
+361 | app_crash="not working" |
+362 | | LC
+363 | current_affairs="also current affairs"; mcq_quality="test quality is so good" |
+364 | hindi_medium="I wish this existed in hindi medium too" | SEG:hindi_medium S:mix
+365 | progress_tracking="It tracks your progress so well"; eval_speed="the answer evaluation in seconds"; daily_targets="staying consistent and focused" |
+366 | all_in_one="everything at one place" |
+367 | pyq_practice="practicing complete pyq" |
+368 | | LC
+369 | | LC
+370 | ipad_layout="mobile UI on large ipad screen" | SEG:ipad
+371 | | LC
+372 | | LC
+373 | | LC
+374 | | LC
+375 | | LC
+376 | hindi_medium="as a hindi medium aspirant we also need questions and topics to be covered in hindi" | SEG:hindi_medium S:mix
+377 | paywall_limits="change the number of questions from 30 to 100" | S:mix
+378 | ai_doubts="The best AI companion" |
+379 | | LC
+380 | | LC
+381 | app_crash="Your App is Properly Not Working" | CR:locked_out="Your App is Properly Not Working"
+382 | | LC
+383 | | LC
+384 | | LC
+385 | easy_ui="very easy and convenient to use"; progress_tracking="keeps tracking your progress"; ai_doubts="resolve your queries with in seconds" |
+386 | other_exams="Make a similar app for civil engineering" | SEG:other_exams
+387 | mcq_quality="The questions are as per UPSC standard"; desktop_app="release an app for desktop also" | SEG:desktop
+388 | daily_targets="maintain consistency in your targets"; current_affairs="daily current affairs" |
+389 | | LC
+390 | eval_quality="Good evaluations and value addition in answers"; ipad_layout="Please bring a dedicated iPad app"; web_parity="Make evaluations history available on web too" | SEG:ipad
+391 | ai_doubts="Get Instant response" |
+392 | | LC
+393 | eval_quality="my Mains answers have improved so much" |
+394 | eval_quality="Mains evaluation of Suoerkalam is top of the notch" | SEG:paid
+395 | ipad_layout="Struggling to use the app on iPad" | SEG:ipad MM
+396 | | LC
+397 | | LC
+398 | study_modules="The study material are well-structured"; current_affairs="current affairs are updated regularly"; eval_quality="answer-writing practice"; affordable="affordable preparation" |
+399 | current_affairs="civil services newspaper"; pyq_practice="pyq , well explanation"; mentors="Arpita mam" |
+400 | | LC
+401 | | LC
+402 | | LC
+403 | app_crash="don't operate in my phone"; support_unresolved="even contacted with customer support still no solution" | CR:locked_out="don't operate in my phone"
+404 | | LC
+405 | affordable="no extra adds and extra fees" |
+406 | affordable="without paying any money" |
+407 | | LC
+408 | | LC
+409 | too_much_ai="they use too much ai" |
+410 | | LC
+411 | desktop_app="kindly bring the windows version also" | SEG:desktop
+412 | study_modules="systematic approach from reading to practice"; pyq_practice="Pyqs were added so much value" |
+413 | study_modules="The language is so simple and clear to understand" | SEG:student
+414 | | LC
+415 | responsive_team="They actually take candidates suggestions into consideration" |
+416 | | LC
+417 | ai_doubts="BESTEST AI TOOL FOR UPSC" |
+418 | eval_fails="I can’t have my answer evaluated" | CR:paid_feature_missing="I can’t have my answer evaluated"
+419 | | LC
+420 | | LC
+421 | eval_quality="gave me a space where i should learn step wise" |
+422 | current_affairs="daily current affairs coverage"; eval_quality="accurate copy evaluation"; bookmarks_ca="please provide bookmark option for current affairs" |
+423 | responsive_team="Best Support Team" |
+424 | | LC
+425 | eval_quality="feels like done by an experienced evaluator" |
+426 | progress_tracking="It tracks what I’m weak at"; daily_targets="fixes my timetable when I miss a day" |
+427 | | LC
+428 | | LC
+429 | | LC
+430 | progress_tracking="track their progress" |
+431 | | LC
+432 | | LC
+433 | | LC
+434 | | LC
+435 | paywall_limits="Now It set Limits of 15 question" | S:mix
+436 | | LC
+437 | | LC
+438 | hindi_medium="No option for Hindi Medium" | SEG:hindi_medium
+439 | mentors="helping guide like Arpita mam" |
+440 | | LC
+441 | | LC
+442 | eval_quality="getting your answers evaluated"; pyq_practice="practicing pyqs" |
+443 | mcq_quality="the level of MCQs is mind blowing"; news_gaps="dont skip some news" |
+444 | eval_quality="Beneficial for answer writing" |
+445 | progress_tracking="identifying my weak areas"; study_modules="The learning module exceptionally covers basic+current affair" |
+446 | | LC
+447 | easy_ui="user friendly interface"; pyq_practice="great for upsc pyqs"; current_affairs="pyqs and current affairs" |
+448 | | LC
+449 | mcq_quality="personalized MCQs and descriptive questions" |
+450 | daily_targets="helps maintain consistency with their daily target trackers"; easy_ui="flexibility in timing" | SEG:working_pro
+451 | bookmarks_ca="Need bookmarks in current affairs page"; ca_mcq_subjects="need more addition of subjects while writing current affairs MCQs"; ai_search_ca="need the AI search in the current affairs area"; ai_off_syllabus="it goes out of syllabus sometimes" |
+452 | optional_subjects="Please add optional section" |
+453 | | LC
+454 | affordable="a cheaper option for many" |
+455 | | LC
+456 | mcq_quality="added CSAT for practise"; easy_ui="full screen experience" |
+457 | ai_doubts="Better than any ai platform chatgpt" | COMP:ChatGPT/were_better="Better than any ai platform chatgpt"
+458 | | LC
+459 | optional_subjects="please add law optional subject"; daily_targets="my schedule is very good now" | SEG:paid
+460 | eval_quality="Mains evaluation is amazing"; daily_targets="Answer writing has become a daily ritual" |
+461 | ai_doubts="Best AI app for upsc" |
+462 | study_modules="help me covered basics for mains specific subjects"; eval_quality="answer evaluation feature is spot on"; daily_targets="constant nudges and remainders of daily targets"; app_crash="constant app blackouts/crashes" |
+463 | eval_speed="instant feedback on handwritten Mains answers"; mcq_quality="Prelims MCQs are sharp and syllabus-focused" | COMP:Coaching_institutes/were_better="instead of waiting weeks for coaching institutes"
+464 | | LC
+465 | | LC
+466 | | LC
+467 | not_informed="you don't inform the registered persons when you update it" | CR:paid_feature_missing="purchasing a test series when you don't inform" SEG:paid
+468 | mcq_quality="The level of questions is simply the best" | COMP:Coaching_institutes/were_better="No other coaching or app have adapted to Prelims 2026 pattern"
+469 | | LC
+470 | support_unresolved="support team can't resolve my doubt" | CR:support_failed="support team can't resolve my doubt"
+471 | | LC
+472 | easy_ui="I love the interface" |
+473 | | LC
+474 | ai_doubts="the AI chat feature is very helpful" |
+475 | study_modules="makes fundamentals super strong" |

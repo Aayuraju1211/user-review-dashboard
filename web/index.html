@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>User Review Dashboard</title>
+<meta name="description" content="What SuperKalam app reviewers say: problems to fix, requests to build and features to protect, from Google Play and App Store reviews.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600&family=Noto+Sans+Devanagari:wght@400;500&display=swap">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<div class="app" id="app">
+  <aside class="side" id="side" aria-label="Main navigation">
+    <div class="brand"><b>User Review Dashboard</b><span>SuperKalam app reviews</span></div>
+    <nav class="nav" id="nav"></nav>
+    <div class="side-foot">
+      <p class="meta" id="freshness"></p>
+      <p class="meta">Independent project. Not affiliated with SuperKalam.</p>
+    </div>
+  </aside>
+  <div class="main">
+    <div class="topbar"><button class="icon-btn" id="menuBtn" aria-label="Open navigation" aria-expanded="false"><svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true"><path d="M3 5h14M3 10h14M3 15h14" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg></button><b>User Review Dashboard</b></div>
+    <main class="page" id="view" tabindex="-1"><p class="loading">Loading reviews…</p></main>
+  </div>
+</div>
+<div class="scrim" id="scrim" hidden></div>
+<aside class="over" id="over" role="dialog" aria-modal="true" aria-labelledby="overTitle" hidden></aside>
+<div id="tip" role="tooltip" hidden></div>
+<div id="toast" role="status" hidden></div>
+<script src="app.js"></script>
+</body>
+</html>

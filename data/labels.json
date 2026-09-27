@@ -1,0 +1,7127 @@
+{
+ "663f42e8-71f5-4859-a9ac-8362fa8d6be0": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "crisp and clear information"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "83e9d709-1e9f-4c64-9869-405aec7349c3": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "Clear learning path"
+   },
+   {
+    "theme": "progress_tracking",
+    "evidence": "tracking of my progress"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "e58bf2b8-26f7-45ff-835a-6f43310c71de": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "practicing pyq"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "63dea34e-4836-4d80-bd6d-548c0580c45a": {
+  "mentions": [
+   {
+    "theme": "easy_ui",
+    "evidence": "the interface has made it so easy"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "b3b9d3e0-8e22-43fa-8103-0a5067dac4e1": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "detailed solution"
+   },
+   {
+    "theme": "easy_ui",
+    "evidence": "user friendly"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "crack my daily goal"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "1b4b4188-73bb-4997-bb73-8db0bf5c9bc7": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "Detailed solutions"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "Daily targets has helped me"
+   },
+   {
+    "theme": "pyq_practice",
+    "evidence": "The quality content, PYQ"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "51fd179b-319f-480a-abe9-95709c5b2039": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "good for practising pyqs"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "8b150331-5efe-4ce2-bdc0-d59d07403bab": {
+  "mentions": [
+   {
+    "theme": "web_parity",
+    "evidence": "Hope the team adds the AI chat feature to the app soon"
+   },
+   {
+    "theme": "mcq_quality",
+    "evidence": "solving MCQs on the phone feels a little more intuitive"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "8317bb98-2f1f-4a4a-b7f5-35b83470895b": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "their MCQ practice improved my accuracy"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "a8674cbf-9130-4052-a0de-82acce5eff92": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "mcq created by superkalam AI"
+   },
+   {
+    "theme": "progress_tracking",
+    "evidence": "helps to track your preparation"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "683f6ef0-73be-4db0-95d8-4024f63fcd96": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "PYQ practice"
+   },
+   {
+    "theme": "ai_doubts",
+    "evidence": "instant doubt-solving"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "boosted my consistency"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "7e475e60-3e0a-4e75-8791-0b9e98647603": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "1cddf7be-3368-44fc-a495-b50c55122ad9": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "4b483b1b-ddf1-439a-acd3-329239bc7bac": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "concept clarity"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "daily traget help to focus everyday"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "a2977456-07d4-4c6d-ab11-42bf5e41c88d": {
+  "mentions": [
+   {
+    "theme": "all_in_one",
+    "evidence": "get content in one go"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "00a02cbd-a43f-4a58-a5f0-234a27ddab3a": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "75fe9b00-3bfd-4b93-953f-a59ab269865b": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "fb17f61b-7753-4d7d-8c89-98d41827504a": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "b36e7b9a-3204-47cc-b20f-a1cd23b19754": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "46bb97e3-c95f-4ecd-8618-ffdc7f50a5ad": {
+  "mentions": [
+   {
+    "theme": "all_in_one",
+    "evidence": "I no longer have to practice MCQ/PYQ from multiple places"
+   },
+   {
+    "theme": "web_parity",
+    "evidence": "Waiting for their mains evaluation to launch on the app soon"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "70ef0115-802c-4df2-b113-9c9d5018fe08": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "639bf0a3-0e12-4cef-9324-c22faa0839fa": {
+  "mentions": [
+   {
+    "theme": "all_in_one",
+    "evidence": "One-stop solution"
+   },
+   {
+    "theme": "easy_ui",
+    "evidence": "The UI is amazing"
+   },
+   {
+    "theme": "study_modules",
+    "evidence": "the content is top-notch"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "0dc76c20-5b30-4ffe-be5c-9aa8c80aba03": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "The MCQs are well-designed"
+   },
+   {
+    "theme": "easy_ui",
+    "evidence": "Clean UI"
+   },
+   {
+    "theme": "progress_tracking",
+    "evidence": "helpful performance tracking"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "97ddaa09-f054-49f1-add9-9d68fb06a77f": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "5765ccf8-2444-4650-b448-dd3c8a58b2dd": {
+  "mentions": [
+   {
+    "theme": "affordable",
+    "evidence": "we can use this app for free"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "1494f8e4-827f-4efb-9e03-6f7758a569d5": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "Good set of MCQs"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "48f53c48-8edc-4c2c-94a8-d991f283f68c": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "excellent gs preparation course"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "mains paper checking feature is very helpful"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "b8f3367e-1dc2-4aa9-bf3f-4f12b6e2788d": {
+  "mentions": [
+   {
+    "theme": "optional_subjects",
+    "evidence": "Can develop app with optional subjects also"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "working_pro"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "2e971380-70ef-4c13-952d-7c9b67d1e0ef": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "I've used it for mains evaluation"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "other_exams"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "08bf52e8-df41-41e3-838c-301bccb4b84d": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "MCQ generation on any topic"
+   },
+   {
+    "theme": "current_affairs",
+    "evidence": "covering current affairs in a comprehensive manner"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "58e4ccd2-b968-44e6-90ac-cb226058fae8": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "fe03791f-3831-4fd9-b579-e71fa9dcf6e0": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "8c64ddfc-c4e7-4ec4-be67-b2e2febd4cef": {
+  "mentions": [
+   {
+    "theme": "daily_targets",
+    "evidence": "Helps me stay regular"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "The mains answer evaluation and feedback really help me improve"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "51fb8dc2-8f5a-407d-bfbb-c235867c66e7": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "breaks down complex topics into digestible formats"
+   },
+   {
+    "theme": "progress_tracking",
+    "evidence": "real-time progress tracking"
+   },
+   {
+    "theme": "mcq_quality",
+    "evidence": "The MCQ practice"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "dd7a8605-80e9-4bcf-8477-41f401e62abd": {
+  "mentions": [
+   {
+    "theme": "web_parity",
+    "evidence": "awaited for the mains prep on the app"
+   },
+   {
+    "theme": "easy_ui",
+    "evidence": "It's great using the app,convenient"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "1a3886b0-ffc6-49bd-9a43-d69a9e557c2e": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "bc59b3de-95bf-49da-b1d3-2a93dd4b0f99": {
+  "mentions": [
+   {
+    "theme": "paywall_limits",
+    "evidence": "we can only use 25 MCQ per day"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "7ea96ecb-40eb-492e-b86f-4e84deafbfe7": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "Subjects are divided into Chapters"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "mains copy evaluation"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "248cf23d-0688-4ac4-8ca0-ffc6adefee37": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "helped in more clarity of the topic"
+   },
+   {
+    "theme": "mcq_quality",
+    "evidence": "practising MCQs"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "0502e497-2897-4fbc-94ba-e57e6d7abd60": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "46a26f88-082b-4270-ad94-f390c59b421c": {
+  "mentions": [
+   {
+    "theme": "easy_ui",
+    "evidence": "very simple to use"
+   },
+   {
+    "theme": "study_modules",
+    "evidence": "the language is easy to understand"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "c7182580-e035-4e0b-afd1-65d99866eb77": {
+  "mentions": [
+   {
+    "theme": "all_in_one",
+    "evidence": "complete package for UPSC"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "58a75f86-2ee8-43ae-ad28-a896852df57d": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "9ae13b68-10a7-4d59-bdfb-532d63916173": {
+  "mentions": [
+   {
+    "theme": "easy_ui",
+    "evidence": "what an amazing UI"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "838b4cdc-004e-40b5-a71b-d07e51cf8cd8": {
+  "mentions": [
+   {
+    "theme": "current_affairs",
+    "evidence": "daily Current Affairs pdf and Monthly Magazine"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "f6a96d0c-b237-4c10-ad78-324e5356ec1b": {
+  "mentions": [
+   {
+    "theme": "daily_targets",
+    "evidence": "maintain consistency"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "49cc0feb-cfe7-49f1-ae5f-b8203932d13c": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "other_exams"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "f4f69673-d61f-467f-89d5-f3f1eaad588c": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "The content is too apt and upto the upsc patter"
+   },
+   {
+    "theme": "progress_tracking",
+    "evidence": "tracking my upsc preparation on a daily basis"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "3ffbe8be-04df-45e1-a630-1423468134bf": {
+  "mentions": [
+   {
+    "theme": "support_unresolved",
+    "evidence": "no contacts are available"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "4593c5ac-0292-471a-90da-56ccd5712896": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "daily practice of prelims question"
+   },
+   {
+    "theme": "pyq_practice",
+    "evidence": "previous year question"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "8045b223-c7db-4c8c-bef0-243b1fa62251": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "9ebba57b-91e9-427b-92dc-0c957680fbeb": {
+  "mentions": [
+   {
+    "theme": "desktop_app",
+    "evidence": "why this application not download on laptop"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "desktop"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "f9d53175-4039-40a6-8dab-b4ed35bf4984": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "12923070611": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "find questions and solve them on all the topics"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "12923125842": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "12923128629": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "Mains evaluation feature is great"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "12923157361": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "12923191853": {
+  "mentions": [
+   {
+    "theme": "eval_speed",
+    "evidence": "Mains answer evaluation in just few seconds"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "8ee82743-b155-4c46-8899-23361b79c6d7": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "242aee4a-ae9a-4b38-a6fa-2b943e2c1467": {
+  "mentions": [
+   {
+    "theme": "dark_mode",
+    "evidence": "please add dark theme"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "12945367416": {
+  "mentions": [
+   {
+    "theme": "daily_targets",
+    "evidence": "stay on track, stay motivated"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "12945370380": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "The learning is super structured"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "It keeps me on track"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": true,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "72418179-59d8-48a6-839c-5247e32b6a62": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "85b05718-b72e-4988-b334-8d4047e2199b": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "types of MCQ"
+   },
+   {
+    "theme": "pyq_practice",
+    "evidence": "pyq practice"
+   },
+   {
+    "theme": "study_modules",
+    "evidence": "notes also include"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "6d9ff9cc-3172-4649-a8cb-d8ec0627173b": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "1e0b6b1b-b460-403e-b78a-710c050d5f19": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "PYQs"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "the mains evaluation"
+   },
+   {
+    "theme": "ai_doubts",
+    "evidence": "doubt-clearing with the Super Kalam bot"
+   },
+   {
+    "theme": "easy_ui",
+    "evidence": "overall clean interface"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "1c706ad1-95d4-4164-af7d-5565fabb3a97": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "material for gs modules is pointed and easy to understand"
+   },
+   {
+    "theme": "affordable",
+    "evidence": "affordable and reasonable"
+   },
+   {
+    "theme": "current_affairs",
+    "evidence": "current affairs are very easy and simplified"
+   },
+   {
+    "theme": "progress_tracking",
+    "evidence": "weekly reports"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "c07bbc53-fe45-43bd-ba21-e2d5e0d4e9f2": {
+  "mentions": [
+   {
+    "theme": "daily_targets",
+    "evidence": "stay focused and discipline"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "12952787894": {
+  "mentions": [
+   {
+    "theme": "daily_targets",
+    "evidence": "The daily targets make it easier to stay on track"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "ef2d2ca1-8325-4fd6-819e-aeeb4ff2e643": {
+  "mentions": [
+   {
+    "theme": "mentors",
+    "evidence": "Mentors and Classes are very good"
+   },
+   {
+    "theme": "all_in_one",
+    "evidence": "Everything is here which is necessary"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "12976301023": {
+  "mentions": [
+   {
+    "theme": "daily_targets",
+    "evidence": "attempt questions daily to maintain streaks"
+   },
+   {
+    "theme": "eval_speed",
+    "evidence": "The answer evaluation is also so quick"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "12978668606": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "b094f04e-1da5-4225-a47f-178aa6ae89e5": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "67bab82d-61e1-4c25-a06f-14b5d6141d9f": {
+  "mentions": [
+   {
+    "theme": "too_expensive",
+    "evidence": "could lower price for packages"
+   },
+   {
+    "theme": "billing_issues",
+    "evidence": "remove the compulsory save the card option"
+   },
+   {
+    "theme": "mcq_quality",
+    "evidence": "Great platform for practicing mcqs"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "e4fce8a9-6a52-4c6a-8342-16bb39d5f76c": {
+  "mentions": [
+   {
+    "theme": "current_affairs",
+    "evidence": "helps alot in current affairs and MCQ and magazines are amazing"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "82c11d6a-b550-4ead-a0c8-9183b9512cb1": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "a1678caa-527e-4666-8567-2729d507a31d": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "Every explanation is phenomenal"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "d0802836-3c55-4559-94f5-5b398165ccbc": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "91f3dd0c-5721-4a07-9363-92528af87928": {
+  "mentions": [
+   {
+    "theme": "eval_speed",
+    "evidence": "evaluate our mains answers within seconds"
+   },
+   {
+    "theme": "current_affairs",
+    "evidence": "monthly magazines as well as current affairs"
+   },
+   {
+    "theme": "pyq_practice",
+    "evidence": "we can attempt the pyqs of mains"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "36300f63-cd2b-489c-a5b2-4e3d13c78bde": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "main pyq and prelims pyq tool"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "fd076651-607e-425a-ae29-03be1ab4c02f": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "turned out to be a pleasant surprise"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "4a5d3853-5cf0-436e-b8db-399868c5aa80": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13001345357": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "6f92fa8a-b26b-4232-abd3-39509d5320ea": {
+  "mentions": [
+   {
+    "theme": "daily_targets",
+    "evidence": "Love the streaks feature"
+   },
+   {
+    "theme": "easy_ui",
+    "evidence": "smooth experience"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "f396bd62-a655-4147-9016-cf1ba260c055": {
+  "mentions": [
+   {
+    "theme": "eval_speed",
+    "evidence": "instant answer evaluation"
+   },
+   {
+    "theme": "progress_tracking",
+    "evidence": "tracking progress and improving weak areas"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "personalized study plans"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13007336977": {
+  "mentions": [
+   {
+    "theme": "ipad_layout",
+    "evidence": "ipad may iska interface phone ki size kaa aata hain"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "ipad"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "3f3867fb-e562-47ff-aa9b-89bd0d369e29": {
+  "mentions": [
+   {
+    "theme": "progress_tracking",
+    "evidence": "continuously analyse yourself"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "paid"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "9cc76d97-e163-4f47-90da-a8ce587dfaef": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13079339608": {
+  "mentions": [
+   {
+    "theme": "paywall_limits",
+    "evidence": "please provide customised purchase options"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "37e7bc4f-4306-43eb-acc1-f60b9c783857": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "daily Mcq practices"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "27f28fa0-7521-413f-86d2-a7da7968bed6": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "interesting way of modules"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "almost accurate mains answer evaluation"
+   },
+   {
+    "theme": "mentors",
+    "evidence": "best teachers and mentors"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "cbb4a2f7-6c90-485f-9dfc-9a58b8e5372a": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "a4912de5-717d-405a-9534-eddd8e47d1b8": {
+  "mentions": [
+   {
+    "theme": "all_in_one",
+    "evidence": "everything that an UPSC aspirant requires on a daily basis"
+   },
+   {
+    "theme": "ai_doubts",
+    "evidence": "AI based instan doubt solving"
+   },
+   {
+    "theme": "affordable",
+    "evidence": "affordable as well"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "3cab965b-0e69-46fd-a894-1f94c4c57789": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "4377e000-999e-4029-9ddc-240fd5db7ecd": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "MCQ and pyq are well solved"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "9e03f074-f201-4da2-a315-f29fea900399": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "it explains why"
+   },
+   {
+    "theme": "progress_tracking",
+    "evidence": "Weekly reports are also useful"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "fa81c861-9e5e-44c9-b297-4ccc939711e2": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "8e2f0e83-b083-4700-9c3e-f1b0f5a098a8": {
+  "mentions": [
+   {
+    "theme": "easy_ui",
+    "evidence": "super smooth and well designed"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "Daily MCQ practie keeps me consistent"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "572be72e-6534-4ea2-aa4c-4dd99d530701": {
+  "mentions": [
+   {
+    "theme": "affordable",
+    "evidence": "affordable app"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "4702383f-9d43-46ac-99eb-485b76467f47": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13142757288": {
+  "mentions": [
+   {
+    "theme": "ai_doubts",
+    "evidence": "Best Bot"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "4766682a-1b65-4878-b1fa-4f7ba422eeef": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "bc641aec-284a-4421-b7ba-95ffb3f43db0": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "ec481959-9317-4908-af1c-6a3972fa50d8": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "solid content"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "ed6ab460-54df-44d0-8275-09eda509cd75": {
+  "mentions": [
+   {
+    "theme": "progress_tracking",
+    "evidence": "finding ur weak areas"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "77b34a90-7301-4378-aa3a-f3ca42e459b2": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "ca2a9eec-63ea-4343-a7a4-6f0a66cd7318": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "bed91d9b-3850-47c6-a03e-1d9786da36cb": {
+  "mentions": [
+   {
+    "theme": "easy_ui",
+    "evidence": "The UI is exceptionally intuitive"
+   },
+   {
+    "theme": "ai_doubts",
+    "evidence": "The integration of AI is not only innovative"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "5550bbc8-c362-4036-8891-e67f975b8011": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "4e34d797-b9cb-47c5-8dad-e71cce3e85ff": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "AI-based evaluation"
+   },
+   {
+    "theme": "study_modules",
+    "evidence": "Content is top-notch, NCERT-like"
+   },
+   {
+    "theme": "affordable",
+    "evidence": "Cost-efficiency"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "26aa7bc6-0bcf-400c-8055-b1fcb0003011": {
+  "mentions": [
+   {
+    "theme": "eval_speed",
+    "evidence": "real time mains answer evaluation provides immediate feedback"
+   },
+   {
+    "theme": "ai_doubts",
+    "evidence": "Ask Superkalam"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "1e49ac56-af4d-406f-a686-6561238e1abe": {
+  "mentions": [
+   {
+    "theme": "hindi_medium",
+    "evidence": "why you are not covering hindi medium students"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "hindi_medium"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "13177257166": {
+  "mentions": [
+   {
+    "theme": "easy_ui",
+    "evidence": "Content, interface and convenience everything is on spot"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "It turned my doomscrolling into Cse preparation"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "d1ea73f0-7024-4858-95eb-409c76dc1890": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "61250bf7-5fb2-4230-823d-160caa8d3fe4": {
+  "mentions": [
+   {
+    "theme": "hindi_medium",
+    "evidence": "please hindi medium kr do"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "hindi_medium"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "16fa725d-6171-43c8-ad1d-dca141eb897f": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "practicing questions on daily basis"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "5d5e71ee-7679-4642-b64a-cd0bb0bfef78": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "49c2fdca-4964-4449-836b-a1850a12bf0a": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "solving prelims pyq's"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "dbfbee2a-9cb2-4c3c-b0b5-9d42e2368bfd": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "easy module strategy to cover syllabus in less time"
+   },
+   {
+    "theme": "all_in_one",
+    "evidence": "one stop solution"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "7cc99ea3-2113-4b8e-9160-e0c97bfeaf76": {
+  "mentions": [
+   {
+    "theme": "eval_speed",
+    "evidence": "within 1 minute"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "best level evaluation"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "e603075c-c2a2-4430-bcaf-fe93e7d987c6": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "fb51bd62-c7ef-4522-bf81-827df19b799e": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "very helpful for Mcqs practice"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "3be1b9ba-33ee-494f-ab98-a79b3230c45b": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "d3784947-5359-4fcb-ba0b-9892897de219": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "647476d2-3bd1-447f-b2df-b9acdc31bd3f": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "eb4f3d45-6e0b-4f71-8b63-b7f03124b8ee": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "e15725f9-c15f-4bbf-b87b-d5f7ef747000": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "873b9ee8-ff5d-44db-bd5a-cc169236fab8": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "3081db59-8372-41c0-a3cd-2143397cd7cd": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "db17390d-fb72-4d06-9935-f727adfdede6": {
+  "mentions": [
+   {
+    "theme": "affordable",
+    "evidence": "totally free"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "acfd72ab-ea62-494e-a489-7d7a029fe61e": {
+  "mentions": [
+   {
+    "theme": "affordable",
+    "evidence": "BONUS IS IT'S PRICE POINT"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [
+   {
+    "name": "Coaching institutes",
+    "context": "were_better",
+    "evidence": "EVEN BETTER IN SOME STUFF THAN A COACHING INSTITUTE"
+   }
+  ],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "35ff74d6-e995-49d5-b526-e9da3b3e2d51": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "6af14d96-163e-4cda-a0e0-57a560c1d8e0": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "de31e5fb-a8f5-44ef-a846-83b6a31eb4e9": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "rational way of evaluation"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "20dd969f-c74d-4968-baf4-ce4bef1589ea": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "e383c0a9-a124-48b5-8136-18122825ddf0": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "74c4cf69-c7e3-4190-82ab-2254517327cf": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "fabulous for prelims practice"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "36a4f405-5e71-4509-833f-ba1702432499": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "34a83902-b1e7-4c16-939a-342ed84df1e5": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "Well Structured"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "6a6394d4-6304-462f-893d-daba6bbd5b8a": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "best modules"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "645c3034-fd0a-45a1-a177-af20685a1183": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "practising concepts very well"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "f3ef7751-6cec-4614-a558-dd53ce356914": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "15b87911-216f-4507-9553-48a0e7f3ae00": {
+  "mentions": [
+   {
+    "theme": "app_crash",
+    "evidence": "sometimes I doesnt open"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "66e1f2d1-fe45-41ab-957a-a41692fae620": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "e436e057-116c-45e4-b3a8-616fc6a4d429": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "cac35606-c99d-4d29-bc2b-726c884a2b7e": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "a84709e5-c08e-4415-b8cd-9d89dfc949be": {
+  "mentions": [
+   {
+    "theme": "web_parity",
+    "evidence": "I couldn't find the AI for doubt clearing in this App which is available on the site"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "4a64b5cc-dd74-4f56-91c0-4683677f3414": {
+  "mentions": [
+   {
+    "theme": "easy_ui",
+    "evidence": "easy to use"
+   },
+   {
+    "theme": "affordable",
+    "evidence": "free source for daily MCQ test"
+   },
+   {
+    "theme": "pyq_practice",
+    "evidence": "ncert or pyq questions"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "2c8711fb-39cd-4c82-8c20-bd8351bb1359": {
+  "mentions": [
+   {
+    "theme": "content_errors",
+    "evidence": "some sentences in the learning section ate incomplete"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "6264f3a6-687e-4293-841c-f607885390c8": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "7afee58c-307d-441f-aa56-d2ef467001a7": {
+  "mentions": [
+   {
+    "theme": "app_crash",
+    "evidence": "unable to open the app"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": {
+   "category": "locked_out",
+   "evidence": "unable to open the app"
+  },
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "e2d42bfe-bf60-4a0e-a299-cef745d9636d": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "UPSC answer writing ke liye best approach"
+   },
+   {
+    "theme": "hindi_medium",
+    "evidence": "please agar Hindi medium she hota"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "hindi_medium"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "099ac815-3a4d-4a08-8476-5506c1191949": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "f6f71c35-bcff-448c-aa7b-66a11a61767a": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "9f9c618a-c333-4570-9483-0a11258c66d3": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "033cbb9c-a3ec-40f5-ba98-f9793f899f3f": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "cc595ded-24f2-4919-89c8-8c8958e6e692": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "942dae8e-7986-40f1-9332-b3d5ccc6bc56": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "pyq practice"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13374592921": {
+  "mentions": [
+   {
+    "theme": "content_gaps",
+    "evidence": "Lots of subject are missing"
+   },
+   {
+    "theme": "too_expensive",
+    "evidence": "Not worth 600rs"
+   },
+   {
+    "theme": "study_modules",
+    "evidence": "Good for basic concept"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "f53e75d3-f938-417c-91ab-4473f594d62e": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "3a7a2d4d-4164-48fe-8c53-788d7dd58b0e": {
+  "mentions": [
+   {
+    "theme": "current_affairs",
+    "evidence": "Current affair is excellent"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "a2d40da0-33ba-4d18-a1ec-7d77a5dfc1de": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "AI daily MCQ"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "mains ans writing check"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "ed71b612-35f0-4a94-9534-f4fc83636c95": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "nice app for self testing"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "b19767cc-29dd-4df0-b440-3cd5d65ecb70": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "7a03687f-5a10-4d25-a90c-cf4407d03486": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "5f124e79-d4dd-4fe7-aefd-0d5dbec26e06": {
+  "mentions": [
+   {
+    "theme": "eval_unfair",
+    "evidence": "biased in marks"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "acfbe901-2535-4db7-a576-da8958d0ab7e": {
+  "mentions": [
+   {
+    "theme": "content_sourcing",
+    "evidence": "all copyright content"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "1428a4bf-5da2-4251-8688-ad981f460720": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13415205670": {
+  "mentions": [
+   {
+    "theme": "current_affairs",
+    "evidence": "daily news analysis"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "cc8d3006-bfdd-4597-9504-474320a9787d": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "topic wise questions"
+   },
+   {
+    "theme": "study_modules",
+    "evidence": "proper modules"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "motivated to maintain streaks"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "ec6f411f-503f-4eda-bb8b-dc90d0ae4a47": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "e34c1116-f545-499a-9177-8e71a6f8c5a0": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "c4ec3c5f-86d7-4497-989f-03bf65f34182": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "Answers analysis"
+   },
+   {
+    "theme": "pyq_practice",
+    "evidence": "PYQ practices"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "consistently stay focused"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "58b26599-9e46-4a46-9857-63b6247245da": {
+  "mentions": [
+   {
+    "theme": "paywall_limits",
+    "evidence": "most of the options are in premium"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "c29fa833-685e-41ae-be7f-a23135b1346f": {
+  "mentions": [
+   {
+    "theme": "web_parity",
+    "evidence": "They expect users to study on the phone for all content"
+   },
+   {
+    "theme": "too_expensive",
+    "evidence": "total waste of money for me"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "desktop",
+   "paid"
+  ],
+  "competitors": [
+   {
+    "name": "PrayasAI",
+    "context": "theyre_better",
+    "evidence": "PrayasAI is better"
+   },
+   {
+    "name": "ChatGPT",
+    "context": "theyre_better",
+    "evidence": "use Chatgpt for the content"
+   }
+  ],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "a0d7042e-3dd1-4e64-a45a-54bb9785575f": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "9a455116-74d6-4a39-9973-5a74edf813da": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "fdb3f59a-5ebe-4fb0-93bf-7ce528e6d77c": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "making pyq practice so systematic"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13467168019": {
+  "mentions": [
+   {
+    "theme": "easy_ui",
+    "evidence": "user friendly and simple"
+   },
+   {
+    "theme": "mcq_quality",
+    "evidence": "daily MCQs for prelims in one place"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "I like the small daily limit"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "46918fcc-62ca-4f94-8873-f16bf672a55c": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "give 360 degree angle view on concepts"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "eb84a7f0-7ffa-4e05-8003-36f6a8e86306": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "nice aap for evaluation answer"
+   },
+   {
+    "theme": "paywall_limits",
+    "evidence": "after some days ask to pay"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "13476870434": {
+  "mentions": [
+   {
+    "theme": "news_gaps",
+    "evidence": "pls upload magazine"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "edcb8a53-a538-48da-b7a8-150187860527": {
+  "mentions": [
+   {
+    "theme": "all_in_one",
+    "evidence": "all in one platform"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "other_exams"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "9ae54d84-ba9c-4b8c-9f0a-86a23b874f3d": {
+  "mentions": [
+   {
+    "theme": "all_in_one",
+    "evidence": "all at one place"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "mains evaluation"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "86629aab-a93a-4d33-88eb-0e0b009b6dde": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "c3f2d551-59c5-49ac-a5a3-b62db44497ba": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "9c354ca5-b2f0-4914-ab04-e0bb43deda11": {
+  "mentions": [
+   {
+    "theme": "dark_mode",
+    "evidence": "the dark mode option you have provided is not working"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "13513260979": {
+  "mentions": [
+   {
+    "theme": "ipad_layout",
+    "evidence": "not fully optimised for iPad"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "ipad"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "13527227482": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "79e9173c-5361-4acd-882a-889978a033d1": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13530088323": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "evaluation of my answer like a teacher"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "6d1792f2-ccd4-42df-b972-e38e41ebfbe1": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "48b6d7d4-9f75-477a-b032-b67063d7139c": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "3237a918-a611-441e-91ba-1b234483eb85": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "2b0b894c-f830-4db0-8858-26a785261361": {
+  "mentions": [
+   {
+    "theme": "hindi_medium",
+    "evidence": "please provide hindi language support"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "hindi_medium"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "c526246f-539f-425c-9691-ef674a483fc4": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "a9a172fc-7e39-4eb6-8837-d936a2afd593": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "1d1e1a50-a447-4222-bb36-5199b299ed14": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "9cef2a43-9364-44c4-9ae3-b9a2a89e6253": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13589246069": {
+  "mentions": [
+   {
+    "theme": "billing_issues",
+    "evidence": "Auto deduction money"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": {
+   "category": "wrong_charge",
+   "evidence": "Auto deduction money"
+  },
+  "segments": [
+   "paid"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "d4795980-8a80-4a5d-bf8b-c7e972590680": {
+  "mentions": [
+   {
+    "theme": "web_parity",
+    "evidence": "features of phone available in laptop screen as well"
+   },
+   {
+    "theme": "study_modules",
+    "evidence": "lots of useful content available"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "desktop"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "13642492454": {
+  "mentions": [
+   {
+    "theme": "easy_ui",
+    "evidence": "The new dark mode is well done"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "656b3122-322c-45b3-8c10-a4a666096dce": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "Main's copy analysis"
+   },
+   {
+    "theme": "current_affairs",
+    "evidence": "daily new articles"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "f06ca017-3cde-4105-8e72-bc13baa70505": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "Notes,quizzes and current affairs are perfectly aligned"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "other_exams"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "e36b9921-e3d5-4755-a24f-524fae605892": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "clear order to preparation"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "2b31c9ce-da12-4596-91da-553e53e9513c": {
+  "mentions": [
+   {
+    "theme": "app_glitches",
+    "evidence": "the screen loading multiple times"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "2b751d3a-c432-4c18-9002-29151ddcab9d": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "a76d1c2a-560f-4e04-9021-2a228f7a62f5": {
+  "mentions": [
+   {
+    "theme": "ai_doubts",
+    "evidence": "too good for doubt clearing"
+   },
+   {
+    "theme": "mcq_quality",
+    "evidence": "practicing mcq"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "10ce6d7d-2cf6-482a-953b-9831f008e1ae": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "ab399f1a-e9d5-4c5d-abcc-b6f42b8b944c": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "practice PYQs and get real-time checks"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "2f2d653c-298e-465d-bedf-0c35f4bb232d": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13669986988": {
+  "mentions": [
+   {
+    "theme": "ipad_layout",
+    "evidence": "make it I pad compatible version"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "ipad"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "0ba9591b-a362-47b0-8831-6504a0bd2847": {
+  "mentions": [
+   {
+    "theme": "misleading_ads",
+    "evidence": "The ads are lying"
+   },
+   {
+    "theme": "too_expensive",
+    "evidence": "super expensive"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "6acd87fa-7897-4d81-86a6-675794a99412": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "f969efd2-985d-4dfb-8e3e-262a94956acb": {
+  "mentions": [
+   {
+    "theme": "paywall_limits",
+    "evidence": "asking for a subscription for basic notes"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "234ef662-fd61-49cb-b2f2-fb2146043c7e": {
+  "mentions": [
+   {
+    "theme": "class_language",
+    "evidence": "Hindi only they speak in live classes"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "paid"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "3ee084a0-6f63-415d-b11b-9d72e0d5178d": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "6ff60391-7418-4e51-91b4-f84e4a2243ef": {
+  "mentions": [
+   {
+    "theme": "current_affairs",
+    "evidence": "i love Daily current affairs quizzes"
+   },
+   {
+    "theme": "daily_quizzes",
+    "evidence": "sunday there's no quize"
+   },
+   {
+    "theme": "pyq_practice",
+    "evidence": "topic-wise PYQ practice"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "eda7df8f-eb32-41a9-81ab-351bb92bcd57": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "bf506522-051b-48ab-a8c9-e58f616ed514": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "12fd22e2-c3d4-4ce9-aa59-5eda4cada56a": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "4110b367-c9a1-4936-b050-3982b9eeb186": {
+  "mentions": [
+   {
+    "theme": "too_expensive",
+    "evidence": "700 ₹ per month"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "9899c645-4b18-4398-a11c-3fe6d5d35ca4": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "instant and good Answer Evaluation"
+   },
+   {
+    "theme": "issue_reporting",
+    "evidence": "provide a technical issue feedback option"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13718204424": {
+  "mentions": [
+   {
+    "theme": "progress_tracking",
+    "evidence": "providing true insights of your preparation"
+   },
+   {
+    "theme": "mcq_quality",
+    "evidence": "practice a lot of question"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "db0706c7-05d0-46dd-8d15-f2c8d6eb6542": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "PYQ practice"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "579b6488-3107-420a-a859-166a7b23d5eb": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "free access to pyq of prelims and mains"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "dbef8558-ee50-4f9b-ac94-4cba8b260b48": {
+  "mentions": [
+   {
+    "theme": "eval_speed",
+    "evidence": "instant review of the daily mains answer"
+   },
+   {
+    "theme": "progress_tracking",
+    "evidence": "weekly analysis of your performance"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "8a0630ec-35fc-49ad-acbd-49a75677e376": {
+  "mentions": [
+   {
+    "theme": "affordable",
+    "evidence": "absolutely free of cost"
+   },
+   {
+    "theme": "mcq_quality",
+    "evidence": "amazing prelims daily MCQ"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "Daily Target can be set up"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "0c528580-404d-429d-8419-8a7ab713b36e": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "d317d105-ac30-4108-bf02-f19e601a936a": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "Pyqs"
+   },
+   {
+    "theme": "current_affairs",
+    "evidence": "news analysis"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "46860703-cd53-4f7b-94f3-7afcbb4b735e": {
+  "mentions": [
+   {
+    "theme": "current_affairs",
+    "evidence": "questions integrated with current affairs"
+   },
+   {
+    "theme": "progress_tracking",
+    "evidence": "help track progress"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "f6b2e7c5-b679-4471-8f65-7c8f7729841e": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "3245bc4e-b0f4-4fa5-9887-ba80df6c2a03": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "best app for pyq analysis"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "cdec31c1-6200-4f85-b32e-692736a3f2f5": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "pyq analysis section"
+   },
+   {
+    "theme": "current_affairs",
+    "evidence": "current affairs section with practice mcq"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "f06172c6-231c-4654-88dd-52f7e74e8921": {
+  "mentions": [
+   {
+    "theme": "easy_ui",
+    "evidence": "flexible to use anywhere anytime"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "37941ff4-6d6f-42e3-ad7d-3e8cd561847a": {
+  "mentions": [
+   {
+    "theme": "daily_targets",
+    "evidence": "boosting my consistency"
+   },
+   {
+    "theme": "all_in_one",
+    "evidence": "all the resources at the same place"
+   },
+   {
+    "theme": "app_glitches",
+    "evidence": "so that it does not glitch"
+   },
+   {
+    "theme": "content_gaps",
+    "evidence": "mains aspects are lacking"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "133a12cb-4e97-428a-9ab8-f0c950839f0a": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "83d376ad-407f-4a53-9c56-71a272c5b7d3": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "54ac651c-2a91-4959-ac19-f078cb873087": {
+  "mentions": [
+   {
+    "theme": "daily_targets",
+    "evidence": "daily targets that will really boost"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "45690eb4-3d21-4aa3-b061-797436fb6d2b": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "best app for pyq/MCQ"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "f30e234e-b627-47ae-bd74-45b40eef6707": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "pyqs"
+   },
+   {
+    "theme": "current_affairs",
+    "evidence": "daily current affairs"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13718955027": {
+  "mentions": [
+   {
+    "theme": "ai_doubts",
+    "evidence": "I can get my doubts resolved immediately"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "36753cdc-3e82-4ee2-ba5b-e8503d539526": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "well explaination of previous year question"
+   },
+   {
+    "theme": "all_in_one",
+    "evidence": "extensive features such as mcq"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13719041159": {
+  "mentions": [
+   {
+    "theme": "mentors",
+    "evidence": "Mentors are kind, supportive, and professionals"
+   },
+   {
+    "theme": "current_affairs",
+    "evidence": "news analysis"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "7ddac66e-e739-4461-b33d-e876b3ae9383": {
+  "mentions": [
+   {
+    "theme": "current_affairs",
+    "evidence": "The newspaper analysis feature is just awesome"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "The daily streak maintenance helps to remain consistent"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "85967ce7-b8f8-46a5-8c34-3b036cbd5157": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "other_exams"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "20195f6b-c8b3-4c81-b1bc-a858b2f5b9f4": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "aaf71e3f-f22f-48c1-ba3d-05ca8dcb208a": {
+  "mentions": [
+   {
+    "theme": "daily_targets",
+    "evidence": "much more organized"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "da1b0591-53e3-4beb-a7a2-374c4335fca6": {
+  "mentions": [
+   {
+    "theme": "current_affairs",
+    "evidence": "daily current MCQs"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "mains q evaluation give insight on improvement"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "daily target tracking"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "90e18388-9722-497e-b3fa-98cfa1735b16": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "0c36df81-49d6-491f-8c45-a019b0182ccf": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13722159743": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "568803b6-c3af-434a-bd27-10e368b4b28f": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "4a0d7f1e-d85d-4ccf-9fa7-bcf74d7c8a54": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "daily Prelims and Mains PYQ-based questions"
+   },
+   {
+    "theme": "easy_ui",
+    "evidence": "intuitive UI/UX"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "smart notifications keep learners aligned with their daily targets"
+   },
+   {
+    "theme": "progress_tracking",
+    "evidence": "Weekly progress reports"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "e911682c-f545-488c-bc22-489343580530": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13730029421": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "03a10c6a-ef01-4390-8798-1ce1b05f4dae": {
+  "mentions": [
+   {
+    "theme": "progress_tracking",
+    "evidence": "nice testing features to analyze your learning"
+   },
+   {
+    "theme": "app_glitches",
+    "evidence": "sometimes a few glitches appear"
+   },
+   {
+    "theme": "responsive_team",
+    "evidence": "the team is doing great work in solving them"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "paid"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "0c636b9c-ead2-4a6f-acd5-c06da6347bf3": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "analysing pyq both prelims and MAINS"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "daily mains evaluation"
+   },
+   {
+    "theme": "current_affairs",
+    "evidence": "daily one mains question challenge according to current affairs"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13748217749": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "Good compilation of pyqs"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "b33a88dc-2474-4664-aacb-af0e88897081": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "cffe6a2d-33b4-4d87-b4a0-b1680b7d6d2b": {
+  "mentions": [
+   {
+    "theme": "easy_ui",
+    "evidence": "Excellent interface"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "maintain daily practice or routine"
+   },
+   {
+    "theme": "responsive_team",
+    "evidence": "Responsive to feedbacks"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "f93cef0d-a1b5-46d5-951f-31a1d49ba881": {
+  "mentions": [
+   {
+    "theme": "web_parity",
+    "evidence": "works only on phone & not on the website"
+   },
+   {
+    "theme": "downloadable_material",
+    "evidence": "it's not downloadable"
+   },
+   {
+    "theme": "misleading_ads",
+    "evidence": "the ads are very misleading"
+   },
+   {
+    "theme": "too_expensive",
+    "evidence": "poor experience in this price"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": {
+   "category": "paid_feature_missing",
+   "evidence": "works only on phone & not on the website"
+  },
+  "segments": [
+   "paid",
+   "desktop"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "2827b5c7-3c29-4ddf-93d5-9541528f85d4": {
+  "mentions": [
+   {
+    "theme": "progress_tracking",
+    "evidence": "syllabus completion tracker"
+   },
+   {
+    "theme": "mnemonics",
+    "evidence": "a section of mnemonics for each subject"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "cf46d845-661d-4531-9a66-edc07633ad85": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "fcc4da8f-4aff-4f78-8fb9-d0f4af55bb08": {
+  "mentions": [
+   {
+    "theme": "hindi_medium",
+    "evidence": "Hindi mai question translate kyun nahi hote haj"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "hindi_medium"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "e354fcba-6ef6-4f0b-bbd1-032cc93ed74a": {
+  "mentions": [
+   {
+    "theme": "app_crash",
+    "evidence": "app is not atall opening"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": {
+   "category": "locked_out",
+   "evidence": "app is not atall opening"
+  },
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "ae2647e4-cd31-4d26-a8bf-1550cf875eab": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "e8310dd4-a917-41f1-9403-50af8702aac5": {
+  "mentions": [
+   {
+    "theme": "ai_doubts",
+    "evidence": "The AI mentorship is brilliant"
+   },
+   {
+    "theme": "current_affairs",
+    "evidence": "GS/Current Affairs content is top-tier"
+   },
+   {
+    "theme": "optional_subjects",
+    "evidence": "Optional Subject Support"
+   },
+   {
+    "theme": "listen_audio",
+    "evidence": "A speaker icon for articles would be a lifesaver"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "da5cf402-65ac-4be0-a5c0-865cd046e9fc": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "best evaluation of mains answer writing"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13797216285": {
+  "mentions": [
+   {
+    "theme": "hindi_medium",
+    "evidence": "the questions are not being converted into Hindi"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "hindi_medium"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "556d7bb3-b206-4588-b80d-b9738a3224de": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "34ed2eb7-4852-4c10-bee7-46010578ee76": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "751772fe-8a4c-4e18-8095-a7b07827752c": {
+  "mentions": [
+   {
+    "theme": "app_crash",
+    "evidence": "frquently crashing"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "79c81bd9-8b16-4985-9b85-a16704117e04": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "449dd176-d486-45be-a56f-f259253275dd": {
+  "mentions": [
+   {
+    "theme": "progress_not_saved",
+    "evidence": "it is not saving my progress"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "4557047b-cfdb-4fb8-a713-9525ea9d6429": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "252a6630-d6cc-47d5-8848-8d1ea0c30eb4": {
+  "mentions": [
+   {
+    "theme": "progress_tracking",
+    "evidence": "it records your reading time"
+   },
+   {
+    "theme": "study_modules",
+    "evidence": "after the reading it tests you"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "aa1333bd-89e0-4967-8f61-5c6deca918e5": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "a092bdb4-760f-40e2-815d-be843af7d8ca": {
+  "mentions": [
+   {
+    "theme": "web_parity",
+    "evidence": "please bring the gs module in Website"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "desktop"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "e7d053f7-12ab-4b9f-b59c-7e0ea3bacad1": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "08a47c68-7e35-4b80-80b4-5d0ad8b80059": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "d5da15d2-846b-49b0-a330-be418e68cd29": {
+  "mentions": [
+   {
+    "theme": "app_glitches",
+    "evidence": "it starts to hang"
+   },
+   {
+    "theme": "app_crash",
+    "evidence": "kicks us out of the app"
+   },
+   {
+    "theme": "progress_not_saved",
+    "evidence": "some units that i have finished reading shows not finished yet"
+   },
+   {
+    "theme": "support_unresolved",
+    "evidence": "still no response from the team"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": {
+   "category": "support_failed",
+   "evidence": "still no response from the team"
+  },
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "13853995885": {
+  "mentions": [
+   {
+    "theme": "ipad_layout",
+    "evidence": "There must be supported landscape mode"
+   },
+   {
+    "theme": "app_crash",
+    "evidence": "The app keeps crashing continuously"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": {
+   "category": "locked_out",
+   "evidence": "it directly blocks the access to the application"
+  },
+  "segments": [
+   "ipad"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "5c209add-3f70-460b-a749-1ed8f3270a3b": {
+  "mentions": [
+   {
+    "theme": "app_crash",
+    "evidence": "crashes and lags a lot"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "2fb1dfc3-0e6b-44a5-8bb1-0a0a096f46e2": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "7fd65216-4745-4e30-9f86-0d97ca917777": {
+  "mentions": [
+   {
+    "theme": "easy_ui",
+    "evidence": "such a beautiful design"
+   },
+   {
+    "theme": "affordable",
+    "evidence": "such a good and affordable way"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [
+   {
+    "name": "Unacademy StudyIQ PW",
+    "context": "were_cheaper",
+    "evidence": "they are just taking money"
+   }
+  ],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13856687063": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "01780dcc-53d2-4c2a-8aa3-332334b71ccf": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "ebc1d9ee-4637-4a67-b2c2-a418befe3c27": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "Notes, quizzes and current affairs are perfectly aligned"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "other_exams"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13856689682": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "practice questions after reading each topic"
+   },
+   {
+    "theme": "progress_tracking",
+    "evidence": "track my learning"
+   },
+   {
+    "theme": "all_in_one",
+    "evidence": "Everything just under one app"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "df6b0cbd-17a5-46e9-941a-6e9251359db5": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "practicing Pyq"
+   },
+   {
+    "theme": "mcq_quality",
+    "evidence": "detailed analysis of every question"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13856695008": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "a good collection of PYQs"
+   },
+   {
+    "theme": "mcq_quality",
+    "evidence": "a wide variety of questions"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "9234ffbd-344a-4734-9e1b-bd2311e53870": {
+  "mentions": [
+   {
+    "theme": "current_affairs",
+    "evidence": "especially for current affairs"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "9aebe7f6-31ef-4039-bc0a-7d53a14136ac": {
+  "mentions": [
+   {
+    "theme": "daily_targets",
+    "evidence": "helped me stay on track"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "The mains answer evaluation is a unique feature"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "aad387de-85c5-4489-8dbc-377014e3f1e0": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "working_pro"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "e3606bc3-d971-4a27-b8b5-7c62c8377bd9": {
+  "mentions": [
+   {
+    "theme": "progress_tracking",
+    "evidence": "tracks progress, analyses results"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "f21aefc6-1c38-4fba-a0a7-9da51bf563c9": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "Best for MCQ"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "mains answer practice"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "4438592d-9663-4255-a3e6-727d8642853c": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "This app give you MCQ on that topic which you want"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "answer evaluation for mains"
+   },
+   {
+    "theme": "current_affairs",
+    "evidence": "the best part of the app is Current Affairs"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "d8d46ffc-1756-4e53-8d26-95ebaa41d6fb": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "helps to prepare topics in depth"
+   },
+   {
+    "theme": "pyq_practice",
+    "evidence": "pyq integration features"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "daily mains answer evaluation"
+   },
+   {
+    "theme": "mentors",
+    "evidence": "csat classes"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "249296fc-a186-48ae-b8bd-e5b509d5308c": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "Best app for Pyqs"
+   },
+   {
+    "theme": "progress_tracking",
+    "evidence": "syllabus tracking"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13856764255": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "attempt and learn PYQs"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "89bef1a3-fb07-47dd-a4cf-63fcaca71879": {
+  "mentions": [
+   {
+    "theme": "ai_doubts",
+    "evidence": "The AI mentorship feels very personalized"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "stay consistent with my daily targets"
+   },
+   {
+    "theme": "progress_tracking",
+    "evidence": "understands my weak areas"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "d4832233-16da-4157-b946-a8db995e79c7": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "3525f4f7-7e1d-429f-8e7a-6bd78cf2998d": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "build an aptitude regarding prelims questions"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "207addcb-98fc-4920-8e27-4cd8c44d2bef": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "5c27e8f7-224c-4efa-8a17-cdaa68bec514": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "solving topic voice pyq"
+   },
+   {
+    "theme": "mcq_quality",
+    "evidence": "why my answer is wrong"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "0840b7b6-a506-40d0-b984-6512a1c5d649": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "good for the concept clarity"
+   },
+   {
+    "theme": "mcq_quality",
+    "evidence": "the level of asking questions is exceptional"
+   },
+   {
+    "theme": "current_affairs",
+    "evidence": "news analysis on superkalam is so much helpful"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13857035951": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "topicwise learning and practice"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "24005269-eccd-4607-bbb8-c275aee497c8": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "topic wise pyq"
+   },
+   {
+    "theme": "current_affairs",
+    "evidence": "Daily news analysis"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "daily mains answer writing content"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "60535e53-c5c7-4952-9a54-a5c64d094419": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "complete daily MCQ"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "it create discipline"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "working_pro"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "7ff93acc-ecb1-46e7-82b0-5c54141e542c": {
+  "mentions": [
+   {
+    "theme": "affordable",
+    "evidence": "30 free prelims questions per day"
+   },
+   {
+    "theme": "current_affairs",
+    "evidence": "Current affairs are well analysed"
+   },
+   {
+    "theme": "pyq_practice",
+    "evidence": "PYQs are available with free explanations"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "06f22444-adf6-4b2a-bfc9-49d1ceb0bd3c": {
+  "mentions": [
+   {
+    "theme": "current_affairs",
+    "evidence": "doing current affairs and daily prelims questions"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "it became a habit"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "05816336-089c-40b3-8ef2-1ab01e14f52e": {
+  "mentions": [
+   {
+    "theme": "progress_tracking",
+    "evidence": "gauging progress on a daily basis"
+   },
+   {
+    "theme": "mcq_quality",
+    "evidence": "daily MCQs practice"
+   },
+   {
+    "theme": "current_affairs",
+    "evidence": "current affairs coverage"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "c9fb9bd6-e144-42f9-ad12-637ab0805613": {
+  "mentions": [
+   {
+    "theme": "current_affairs",
+    "evidence": "along with current affairs"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13859968482": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13860047678": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "Great for PYQs"
+   },
+   {
+    "theme": "progress_tracking",
+    "evidence": "see accuracy of each subject"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "e5262ae0-e2c5-4bc0-bedc-d3078c33595b": {
+  "mentions": [
+   {
+    "theme": "current_affairs",
+    "evidence": "specially Current affairs parts"
+   },
+   {
+    "theme": "all_in_one",
+    "evidence": "no need to search other options"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "5fae653c-1d07-4bff-b063-ebf5f8c4a209": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "ca102941-b744-4a3d-bc08-6d57a66d0bd4": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "amz evaluation of mains answer"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "1e335db5-c25f-481e-9a13-59dcd9760556": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "3aaf9528-9b09-4af7-8737-fe46dd9e0b8b": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "1a4f13d5-33f9-4a0e-8df9-3e93cef9e0ec": {
+  "mentions": [
+   {
+    "theme": "loses_place",
+    "evidence": "the app starts again when we switch to another"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "e60236f0-4e3f-48db-ad9f-efeafc0ab322": {
+  "mentions": [
+   {
+    "theme": "hindi_medium",
+    "evidence": "it is not available in Hindi"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "hindi_medium"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "f9bce135-600b-4757-8bfc-46be1718fdab": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "highlight for PYQs topic wise"
+   },
+   {
+    "theme": "current_affairs",
+    "evidence": "easy access for current affairs briefing"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "a409eef7-7e77-4279-ad65-894ea99cb6cc": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "afed963f-3222-4ef8-89aa-0b80f9a592a2": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "a3f83c30-078e-4b76-a087-470ae1c0b73c": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "useful for practicing mcq"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "bf4772b3-1ca4-461b-9baa-e596c3a5d455": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13884245909": {
+  "mentions": [
+   {
+    "theme": "sound_not_mutable",
+    "evidence": "turn off sound option"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "b089d69a-8c40-448d-b4c0-0859c0f706fa": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "ac0539f6-cf03-498e-946f-b19201775a7a": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "the information provided is precise and clear"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "4d03aa2b-6b00-411e-ac3c-7eae98a06396": {
+  "mentions": [
+   {
+    "theme": "sound_not_mutable",
+    "evidence": "make the sound optional"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "13914969491": {
+  "mentions": [
+   {
+    "theme": "ipad_layout",
+    "evidence": "Provision to use the app on Landscape mode is very necessary for iPad users"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "ipad"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "eea95b98-b09f-4ce2-9cba-b90aa6756f65": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "after reading each chapter, the summary questions"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "77a67cf4-e2d4-49ca-aafe-6f841d238d9d": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "d59fe825-f7dd-469e-b7c7-b69654e71310": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "practicing UPSC-level MCQs"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "b601df62-d579-4a59-8223-aa5e9f39a6ee": {
+  "mentions": [
+   {
+    "theme": "paywall_limits",
+    "evidence": "now it's completely paid"
+   },
+   {
+    "theme": "too_expensive",
+    "evidence": "They are charging 699 for one month"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "983b9a5b-ce4c-4ce9-89cb-b81ae6499b20": {
+  "mentions": [
+   {
+    "theme": "paywall_limits",
+    "evidence": "Free Access Ended"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "544738dd-fe12-4886-aa79-351d240ea75b": {
+  "mentions": [
+   {
+    "theme": "current_affairs",
+    "evidence": "reading newspaper"
+   },
+   {
+    "theme": "mcq_quality",
+    "evidence": "solve daily mcqs for prelims"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "mains answers evaluation"
+   },
+   {
+    "theme": "study_modules",
+    "evidence": "subjects notes are amazing"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "maintain my daily schedule"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "a76f19ce-2d56-4a81-8570-846e305d9154": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "98c8ffe1-130e-4191-9584-5402e2910049": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "43ec37f5-544e-48c9-b433-37a3927df9de": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13963367001": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "especially answer writing mains evaluation"
+   },
+   {
+    "theme": "test_formats",
+    "evidence": "the paper being check by a person"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "track daily task"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "8fdb474d-ac9b-4edf-b1e3-8c0da1a00633": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "c93dc70c-73dd-4281-8d92-ab16c0a77bec": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "d7209752-ec67-4c06-9895-0f3fcdec77c0": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "content is decent"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "bbe3bb65-c9c3-4ebe-8369-aef81e073780": {
+  "mentions": [
+   {
+    "theme": "ai_doubts",
+    "evidence": "Personalised AI Doubt solving Mentor"
+   },
+   {
+    "theme": "responsive_team",
+    "evidence": "24/7 Live WhatsApp support"
+   },
+   {
+    "theme": "eval_speed",
+    "evidence": "evaluation within 60 seconds"
+   },
+   {
+    "theme": "pyq_practice",
+    "evidence": "Unlimited PYQ's solving"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "paid"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "2ed4893c-b5ee-4fba-85c2-73ec5813de02": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "PYQ tool is very helpful"
+   },
+   {
+    "theme": "current_affairs",
+    "evidence": "news explainations are also very lucid"
+   },
+   {
+    "theme": "too_expensive",
+    "evidence": "Price can be changed to make it more affordable"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "a745f958-54ab-4c92-bbcc-6d185cc16bf9": {
+  "mentions": [
+   {
+    "theme": "misleading_ads",
+    "evidence": "their promotion videos and reality does not match"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "b69659cd-a0b1-4cd9-bf8c-26006f3aa5e3": {
+  "mentions": [
+   {
+    "theme": "all_in_one",
+    "evidence": "takes care of almost everything"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "a9b238f3-ca3e-4df2-b2ee-d7c54be2c134": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "f7b5dbf9-446e-4aaa-9245-b8e4109a60d6": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "13997748533": {
+  "mentions": [
+   {
+    "theme": "ipad_layout",
+    "evidence": "Please update app for IPAD"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "ipad"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "79ee8e8c-710f-44b8-912e-5bf0c021e925": {
+  "mentions": [
+   {
+    "theme": "ai_doubts",
+    "evidence": "every doubt is cleared"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "14015676731": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "3d257be9-9fad-45cf-938f-c68c9bb7b65b": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "14017367636": {
+  "mentions": [
+   {
+    "theme": "ipad_layout",
+    "evidence": "Doesn’t support iPad"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "ipad"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "b7e6eff2-bae0-437b-b730-8f181bf07e2a": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "11221cb0-a2b3-4e63-bba3-6506a6354f8b": {
+  "mentions": [
+   {
+    "theme": "hindi_medium",
+    "evidence": "make it available in hindi medium"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "hindi_medium"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "de6e2707-0b2f-41ae-b354-d0ea4e2d19e5": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "4aa21a38-8178-43d6-88a6-7b0e9f8406c5": {
+  "mentions": [
+   {
+    "theme": "app_crash",
+    "evidence": "not working"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "3b979e97-7b80-4447-9c11-a844a6690557": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "a12480b1-db2a-4d6d-b671-831f78506854": {
+  "mentions": [
+   {
+    "theme": "current_affairs",
+    "evidence": "also current affairs"
+   },
+   {
+    "theme": "mcq_quality",
+    "evidence": "test quality is so good"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "24a28e84-3cb8-41da-9411-fbe1e3fbe73d": {
+  "mentions": [
+   {
+    "theme": "hindi_medium",
+    "evidence": "I wish this existed in hindi medium too"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "hindi_medium"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "d184ddfc-1c8f-4b3e-8dfc-5216fae300d0": {
+  "mentions": [
+   {
+    "theme": "progress_tracking",
+    "evidence": "It tracks your progress so well"
+   },
+   {
+    "theme": "eval_speed",
+    "evidence": "the answer evaluation in seconds"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "staying consistent and focused"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "34815f21-09d5-48df-96cd-9d395a188102": {
+  "mentions": [
+   {
+    "theme": "all_in_one",
+    "evidence": "everything at one place"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "fe619b0c-419b-48dc-8673-37917cff0e78": {
+  "mentions": [
+   {
+    "theme": "pyq_practice",
+    "evidence": "practicing complete pyq"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "356ac8e6-52a8-4b4c-8b7c-da502daf4b8c": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "5bb0e75c-f0a2-4ec5-84aa-0c7bb89099c0": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "14058453882": {
+  "mentions": [
+   {
+    "theme": "ipad_layout",
+    "evidence": "mobile UI on large ipad screen"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "ipad"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "4c5620bc-4a19-4795-ae8d-f8d1f18e06dc": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "268a8427-816c-4c70-8c07-321c01161a48": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "97d3c32b-f531-487c-b8c7-eb703a3d86e7": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "fa4cb033-c915-4eda-9bba-40357dda148c": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "9c8defa9-c6d4-4224-bd0d-fc4ed82e51f9": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "8b628d8d-78fc-474e-99fa-21608e87103b": {
+  "mentions": [
+   {
+    "theme": "hindi_medium",
+    "evidence": "as a hindi medium aspirant we also need questions and topics to be covered in hindi"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "hindi_medium"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "1691c892-2db9-4598-b08e-318b412fec45": {
+  "mentions": [
+   {
+    "theme": "paywall_limits",
+    "evidence": "change the number of questions from 30 to 100"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "9ff358b6-9e08-49f4-843e-675b9237d597": {
+  "mentions": [
+   {
+    "theme": "ai_doubts",
+    "evidence": "The best AI companion"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "a80db6ee-8ec7-4682-8479-19b8fc4fbfff": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "bf826445-ea00-4175-bad6-fe56794c528a": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "3891a2eb-e718-4c59-8104-c8c051b0bc91": {
+  "mentions": [
+   {
+    "theme": "app_crash",
+    "evidence": "Your App is Properly Not Working"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": {
+   "category": "locked_out",
+   "evidence": "Your App is Properly Not Working"
+  },
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "22f97a8f-12a2-4dac-bdf1-d524dab88886": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "c8348ee0-66a6-4c37-941d-cce844ea0b0f": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "c974a5d0-59a3-489e-8bee-37f8a310fbb1": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "24fe897a-dc16-4f59-9446-e2d76dab9b1b": {
+  "mentions": [
+   {
+    "theme": "easy_ui",
+    "evidence": "very easy and convenient to use"
+   },
+   {
+    "theme": "progress_tracking",
+    "evidence": "keeps tracking your progress"
+   },
+   {
+    "theme": "ai_doubts",
+    "evidence": "resolve your queries with in seconds"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "968a9093-33ef-4f19-90a3-6e7cd9a4cb6e": {
+  "mentions": [
+   {
+    "theme": "other_exams",
+    "evidence": "Make a similar app for civil engineering"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "other_exams"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "a1a4a1f7-3cb7-44d2-b8e4-e4140c6f563c": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "The questions are as per UPSC standard"
+   },
+   {
+    "theme": "desktop_app",
+    "evidence": "release an app for desktop also"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "desktop"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "53ff7ba0-5088-45e1-9ed7-5f343dbea57e": {
+  "mentions": [
+   {
+    "theme": "daily_targets",
+    "evidence": "maintain consistency in your targets"
+   },
+   {
+    "theme": "current_affairs",
+    "evidence": "daily current affairs"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "14138764510": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "14142451367": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "Good evaluations and value addition in answers"
+   },
+   {
+    "theme": "ipad_layout",
+    "evidence": "Please bring a dedicated iPad app"
+   },
+   {
+    "theme": "web_parity",
+    "evidence": "Make evaluations history available on web too"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "ipad"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "4db907be-a37e-473d-ae15-d2a7429183b5": {
+  "mentions": [
+   {
+    "theme": "ai_doubts",
+    "evidence": "Get Instant response"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "45c58e87-0872-4135-98fd-a179653930fb": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "14147641678": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "my Mains answers have improved so much"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "ea25f57e-a8aa-44d1-900e-e3f7b8971612": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "Mains evaluation of Suoerkalam is top of the notch"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "paid"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "14154853166": {
+  "mentions": [
+   {
+    "theme": "ipad_layout",
+    "evidence": "Struggling to use the app on iPad"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": true,
+  "critical": null,
+  "segments": [
+   "ipad"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "b1b3bfbc-6828-4e17-af12-436f83128c59": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "2e11cc31-07fe-446a-b40a-c4c626475579": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "d72a5efa-76a7-4d07-8ec7-260707cb7217": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "The study material are well-structured"
+   },
+   {
+    "theme": "current_affairs",
+    "evidence": "current affairs are updated regularly"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "answer-writing practice"
+   },
+   {
+    "theme": "affordable",
+    "evidence": "affordable preparation"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "e32eceae-1282-422f-9a8d-879d6e1e730c": {
+  "mentions": [
+   {
+    "theme": "current_affairs",
+    "evidence": "civil services newspaper"
+   },
+   {
+    "theme": "pyq_practice",
+    "evidence": "pyq , well explanation"
+   },
+   {
+    "theme": "mentors",
+    "evidence": "Arpita mam"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "d4acfb15-a88e-47d6-b6d3-4e55f43b824f": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "8c6e0c82-b76c-4e2e-9fbb-2e9273bff492": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "b3c2148c-f90f-4f21-a5eb-f0d8da5b0c7f": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "6a3e64f4-538f-4323-b604-090a974736ed": {
+  "mentions": [
+   {
+    "theme": "app_crash",
+    "evidence": "don't operate in my phone"
+   },
+   {
+    "theme": "support_unresolved",
+    "evidence": "even contacted with customer support still no solution"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": {
+   "category": "locked_out",
+   "evidence": "don't operate in my phone"
+  },
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "4f7bb690-afe2-4089-831f-bdf937e01bf6": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "d7340ca5-9e01-4f58-a4fc-d4e0056d5cc5": {
+  "mentions": [
+   {
+    "theme": "affordable",
+    "evidence": "no extra adds and extra fees"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "7242c758-143c-4649-8379-5c6f7e5a3a45": {
+  "mentions": [
+   {
+    "theme": "affordable",
+    "evidence": "without paying any money"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "0ba799ef-1794-4921-90c2-e8eaf515278f": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "ff379760-11cf-4f33-810f-8460682e33ca": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "b006dd15-28d2-4297-a0e3-608c23383b46": {
+  "mentions": [
+   {
+    "theme": "too_much_ai",
+    "evidence": "they use too much ai"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "483bc465-cc15-4022-ad6a-8cba7de97369": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "0e95b0b1-80c7-4797-b070-ea306c520907": {
+  "mentions": [
+   {
+    "theme": "desktop_app",
+    "evidence": "kindly bring the windows version also"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "desktop"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "41c7353c-40bc-414a-9e67-68b5fb77c0a1": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "systematic approach from reading to practice"
+   },
+   {
+    "theme": "pyq_practice",
+    "evidence": "Pyqs were added so much value"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "49749f62-706e-4e56-ba6b-82386242774d": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "The language is so simple and clear to understand"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "student"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "252e3e54-1be8-41d3-85d9-2f25fadc4e48": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "b6cf8797-fb89-483e-8f01-17f154cf404e": {
+  "mentions": [
+   {
+    "theme": "responsive_team",
+    "evidence": "They actually take candidates suggestions into consideration"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "96c413f1-a8da-4323-a849-e57c34ebfcb5": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "17e93420-38f1-49f7-a4ee-e14bb614a37c": {
+  "mentions": [
+   {
+    "theme": "ai_doubts",
+    "evidence": "BESTEST AI TOOL FOR UPSC"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "14328851913": {
+  "mentions": [
+   {
+    "theme": "eval_fails",
+    "evidence": "I can’t have my answer evaluated"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": {
+   "category": "paid_feature_missing",
+   "evidence": "I can’t have my answer evaluated"
+  },
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "2bf9ac9a-49c5-44c4-91ca-9754b685d35b": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "7faf98b6-eca1-4295-a6f0-ea4872414276": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "20b38919-8f5b-4965-81ef-67228eaf7ca4": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "gave me a space where i should learn step wise"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "74fe4765-4e2b-46ae-9904-8db94b42b7f2": {
+  "mentions": [
+   {
+    "theme": "current_affairs",
+    "evidence": "daily current affairs coverage"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "accurate copy evaluation"
+   },
+   {
+    "theme": "bookmarks_ca",
+    "evidence": "please provide bookmark option for current affairs"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "5527774d-b33a-4cf9-b0a7-3e2152739e5d": {
+  "mentions": [
+   {
+    "theme": "responsive_team",
+    "evidence": "Best Support Team"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "6d260fd0-9eee-404a-8ecc-48436cc14374": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "e269fff4-633a-4115-8911-99863ce087fb": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "feels like done by an experienced evaluator"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "97803f58-7ecc-4f58-9941-322f88aba44c": {
+  "mentions": [
+   {
+    "theme": "progress_tracking",
+    "evidence": "It tracks what I’m weak at"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "fixes my timetable when I miss a day"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "41b5b6d0-6f04-4838-93e6-69a8ed95e232": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "2d38cb14-3064-411b-82df-79ed8d115f40": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "9c489dd8-2eb2-4b2d-9bba-ca24f5fff063": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "14402366736": {
+  "mentions": [
+   {
+    "theme": "progress_tracking",
+    "evidence": "track their progress"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "7f26b354-194b-4eef-81a8-77d8400a9c42": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "7896adce-ebdf-465f-8808-e870369237ad": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "fa6a4eec-c659-4d9d-a49f-209224a4ced0": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "4b37011e-c98a-4d1b-8291-1e4385836c55": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "14457744260": {
+  "mentions": [
+   {
+    "theme": "paywall_limits",
+    "evidence": "Now It set Limits of 15 question"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "2ddfaaac-e6f1-45fd-873c-a2d7d4647887": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "65e86636-1654-4518-a21f-11db1f86731b": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "48897e32-7304-4a81-92bc-f56ee7afa0dc": {
+  "mentions": [
+   {
+    "theme": "hindi_medium",
+    "evidence": "No option for Hindi Medium"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "hindi_medium"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "f46ff5ff-8a9d-472d-aae5-970322c8d97d": {
+  "mentions": [
+   {
+    "theme": "mentors",
+    "evidence": "helping guide like Arpita mam"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "35d0fd23-dd76-4e56-8b3a-a577cfe9b987": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "14499382945": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "034985d6-98b7-4c97-a31e-19d0262f25dc": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "getting your answers evaluated"
+   },
+   {
+    "theme": "pyq_practice",
+    "evidence": "practicing pyqs"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "f052400c-3c9c-41f2-87c4-87e7688c6de3": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "the level of MCQs is mind blowing"
+   },
+   {
+    "theme": "news_gaps",
+    "evidence": "dont skip some news"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "ef45a199-69e6-4313-b939-9b28bf49b6f7": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "Beneficial for answer writing"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "abc6a1eb-66f2-4048-b8c6-a263f737393e": {
+  "mentions": [
+   {
+    "theme": "progress_tracking",
+    "evidence": "identifying my weak areas"
+   },
+   {
+    "theme": "study_modules",
+    "evidence": "The learning module exceptionally covers basic+current affair"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "dbd8eb73-81e5-415c-9782-bf3d35dde4e0": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "3a3741fb-3e61-431c-82ab-e30b98a2afae": {
+  "mentions": [
+   {
+    "theme": "easy_ui",
+    "evidence": "user friendly interface"
+   },
+   {
+    "theme": "pyq_practice",
+    "evidence": "great for upsc pyqs"
+   },
+   {
+    "theme": "current_affairs",
+    "evidence": "pyqs and current affairs"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "7e3f233b-1fe9-45fb-968c-bc6b82d1c606": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "14513315162": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "personalized MCQs and descriptive questions"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "14516493709": {
+  "mentions": [
+   {
+    "theme": "daily_targets",
+    "evidence": "helps maintain consistency with their daily target trackers"
+   },
+   {
+    "theme": "easy_ui",
+    "evidence": "flexibility in timing"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "working_pro"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "14516864806": {
+  "mentions": [
+   {
+    "theme": "bookmarks_ca",
+    "evidence": "Need bookmarks in current affairs page"
+   },
+   {
+    "theme": "ca_mcq_subjects",
+    "evidence": "need more addition of subjects while writing current affairs MCQs"
+   },
+   {
+    "theme": "ai_search_ca",
+    "evidence": "need the AI search in the current affairs area"
+   },
+   {
+    "theme": "ai_off_syllabus",
+    "evidence": "it goes out of syllabus sometimes"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "14517014377": {
+  "mentions": [
+   {
+    "theme": "optional_subjects",
+    "evidence": "Please add optional section"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "4af2102d-26b4-419b-ac54-c549b874df20": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "d175ae99-23ad-4909-a665-806e3ac1c86e": {
+  "mentions": [
+   {
+    "theme": "affordable",
+    "evidence": "a cheaper option for many"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "6ec9b6e0-e431-49b3-9b76-637f2e50039b": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "62494c09-f146-41ef-9b78-46ca65cbb997": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "added CSAT for practise"
+   },
+   {
+    "theme": "easy_ui",
+    "evidence": "full screen experience"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "14522347252": {
+  "mentions": [
+   {
+    "theme": "ai_doubts",
+    "evidence": "Better than any ai platform chatgpt"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [
+   {
+    "name": "ChatGPT",
+    "context": "were_better",
+    "evidence": "Better than any ai platform chatgpt"
+   }
+  ],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "374e1c44-3ed4-4586-a836-624334fce175": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "5ee8fa96-e080-412f-ba3d-02fc0a5e428e": {
+  "mentions": [
+   {
+    "theme": "optional_subjects",
+    "evidence": "please add law optional subject"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "my schedule is very good now"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "paid"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "14525032105": {
+  "mentions": [
+   {
+    "theme": "eval_quality",
+    "evidence": "Mains evaluation is amazing"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "Answer writing has become a daily ritual"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "14525050900": {
+  "mentions": [
+   {
+    "theme": "ai_doubts",
+    "evidence": "Best AI app for upsc"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "36f07ab1-6570-484b-b21f-929d67934735": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "help me covered basics for mains specific subjects"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "answer evaluation feature is spot on"
+   },
+   {
+    "theme": "daily_targets",
+    "evidence": "constant nudges and remainders of daily targets"
+   },
+   {
+    "theme": "app_crash",
+    "evidence": "constant app blackouts/crashes"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "mixed"
+ },
+ "836fffc0-2463-420d-9df0-0c7096cb0198": {
+  "mentions": [
+   {
+    "theme": "eval_speed",
+    "evidence": "instant feedback on handwritten Mains answers"
+   },
+   {
+    "theme": "mcq_quality",
+    "evidence": "Prelims MCQs are sharp and syllabus-focused"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [
+   {
+    "name": "Coaching institutes",
+    "context": "were_better",
+    "evidence": "instead of waiting weeks for coaching institutes"
+   }
+  ],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "cf7da6e0-79dc-4892-9bc3-86b235a95553": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "e06ab972-aea6-474e-9513-0e55ceb4f81d": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "14539635013": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "f758cc22-d22a-4425-9cd8-32523c3176cd": {
+  "mentions": [
+   {
+    "theme": "not_informed",
+    "evidence": "you don't inform the registered persons when you update it"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": {
+   "category": "paid_feature_missing",
+   "evidence": "purchasing a test series when you don't inform"
+  },
+  "segments": [
+   "paid"
+  ],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "1541a2ca-a884-4109-b476-ea1243615013": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "The level of questions is simply the best"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [
+   {
+    "name": "Coaching institutes",
+    "context": "were_better",
+    "evidence": "No other coaching or app have adapted to Prelims 2026 pattern"
+   }
+  ],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "cd7b3092-87c2-4fab-a973-e582c16957f7": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "0f2937c9-ff70-4b9d-9e8d-16d4afc1380d": {
+  "mentions": [
+   {
+    "theme": "support_unresolved",
+    "evidence": "support team can't resolve my doubt"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": {
+   "category": "support_failed",
+   "evidence": "support team can't resolve my doubt"
+  },
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "negative"
+ },
+ "14575428552": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "14580426272": {
+  "mentions": [
+   {
+    "theme": "easy_ui",
+    "evidence": "I love the interface"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "c9ce8100-06d5-4b2f-87cd-92ad48fd2b76": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "cdf6559c-02ae-448e-a688-0e76d04ff889": {
+  "mentions": [
+   {
+    "theme": "ai_doubts",
+    "evidence": "the AI chat feature is very helpful"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ },
+ "67b91280-873b-43a3-851d-6d64681cafb3": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "makes fundamentals super strong"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "labelled_by": "hand-v1",
+  "sentiment": "positive"
+ }
+}

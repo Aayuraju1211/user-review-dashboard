@@ -1,0 +1,121 @@
+# Batch 3: reviews 241-360 (Feb 2026 - May 2026). Hand-labelled v1.
+241 | pyq_practice="pyqs"; current_affairs="daily current affairs" |
+242 | ai_doubts="I can get my doubts resolved immediately" |
+243 | pyq_practice="well explaination of previous year question"; all_in_one="extensive features such as mcq" |
+244 | mentors="Mentors are kind, supportive, and professionals"; current_affairs="news analysis" |
+245 | current_affairs="The newspaper analysis feature is just awesome"; daily_targets="The daily streak maintenance helps to remain consistent" |
+246 | | LC SEG:other_exams
+247 | | LC
+248 | daily_targets="much more organized" |
+249 | current_affairs="daily current MCQs"; eval_quality="mains q evaluation give insight on improvement"; daily_targets="daily target tracking" |
+250 | | LC
+251 | | LC
+252 | | LC
+253 | | LC
+254 | pyq_practice="daily Prelims and Mains PYQ-based questions"; easy_ui="intuitive UI/UX"; daily_targets="smart notifications keep learners aligned with their daily targets"; progress_tracking="Weekly progress reports" |
+255 | | LC
+256 | | LC
+257 | progress_tracking="nice testing features to analyze your learning"; app_glitches="sometimes a few glitches appear"; responsive_team="the team is doing great work in solving them" | SEG:paid
+258 | pyq_practice="analysing pyq both prelims and MAINS"; eval_quality="daily mains evaluation"; current_affairs="daily one mains question challenge according to current affairs" |
+259 | pyq_practice="Good compilation of pyqs" |
+260 | | LC
+261 | easy_ui="Excellent interface"; daily_targets="maintain daily practice or routine"; responsive_team="Responsive to feedbacks" |
+262 | web_parity="works only on phone & not on the website"; downloadable_material="it's not downloadable"; misleading_ads="the ads are very misleading"; too_expensive="poor experience in this price" | CR:paid_feature_missing="works only on phone & not on the website" SEG:paid,desktop
+263 | progress_tracking="syllabus completion tracker"; mnemonics="a section of mnemonics for each subject" |
+264 | | LC
+265 | hindi_medium="Hindi mai question translate kyun nahi hote haj" | SEG:hindi_medium
+266 | app_crash="app is not atall opening" | CR:locked_out="app is not atall opening"
+267 | | LC
+268 | ai_doubts="The AI mentorship is brilliant"; current_affairs="GS/Current Affairs content is top-tier"; optional_subjects="Optional Subject Support"; listen_audio="A speaker icon for articles would be a lifesaver" |
+269 | eval_quality="best evaluation of mains answer writing" |
+270 | hindi_medium="the questions are not being converted into Hindi" | SEG:hindi_medium
+271 | | LC
+272 | | LC
+273 | app_crash="frquently crashing" |
+274 | | LC
+275 | progress_not_saved="it is not saving my progress" |
+276 | | LC
+277 | progress_tracking="it records your reading time"; study_modules="after the reading it tests you" |
+278 | | LC
+279 | web_parity="please bring the gs module in Website" | SEG:desktop
+280 | | LC
+281 | | LC
+282 | app_glitches="it starts to hang"; app_crash="kicks us out of the app"; progress_not_saved="some units that i have finished reading shows not finished yet"; support_unresolved="still no response from the team" | CR:support_failed="still no response from the team"
+283 | ipad_layout="There must be supported landscape mode"; app_crash="The app keeps crashing continuously" | CR:locked_out="it directly blocks the access to the application" SEG:ipad
+284 | app_crash="crashes and lags a lot" |
+285 | | LC
+286 | easy_ui="such a beautiful design"; affordable="such a good and affordable way" | COMP:Unacademy_StudyIQ_PW/were_cheaper="they are just taking money"
+287 | | LC
+288 | | LC
+289 | study_modules="Notes, quizzes and current affairs are perfectly aligned" | SEG:other_exams
+290 | study_modules="practice questions after reading each topic"; progress_tracking="track my learning"; all_in_one="Everything just under one app" |
+291 | pyq_practice="practicing Pyq"; mcq_quality="detailed analysis of every question" |
+292 | pyq_practice="a good collection of PYQs"; mcq_quality="a wide variety of questions" |
+293 | current_affairs="especially for current affairs" |
+294 | daily_targets="helped me stay on track"; eval_quality="The mains answer evaluation is a unique feature" |
+295 | | LC SEG:working_pro
+296 | progress_tracking="tracks progress, analyses results" |
+297 | mcq_quality="Best for MCQ"; eval_quality="mains answer practice" |
+298 | mcq_quality="This app give you MCQ on that topic which you want"; eval_quality="answer evaluation for mains"; current_affairs="the best part of the app is Current Affairs" |
+299 | study_modules="helps to prepare topics in depth"; pyq_practice="pyq integration features"; eval_quality="daily mains answer evaluation"; mentors="csat classes" |
+300 | pyq_practice="Best app for Pyqs"; progress_tracking="syllabus tracking" |
+301 | pyq_practice="attempt and learn PYQs" |
+302 | ai_doubts="The AI mentorship feels very personalized"; daily_targets="stay consistent with my daily targets"; progress_tracking="understands my weak areas" |
+303 | | LC
+304 | mcq_quality="build an aptitude regarding prelims questions" |
+305 | | LC
+306 | pyq_practice="solving topic voice pyq"; mcq_quality="why my answer is wrong" |
+307 | study_modules="good for the concept clarity"; mcq_quality="the level of asking questions is exceptional"; current_affairs="news analysis on superkalam is so much helpful" |
+308 | study_modules="topicwise learning and practice" |
+309 | pyq_practice="topic wise pyq"; current_affairs="Daily news analysis"; eval_quality="daily mains answer writing content" |
+310 | mcq_quality="complete daily MCQ"; daily_targets="it create discipline" | SEG:working_pro
+311 | affordable="30 free prelims questions per day"; current_affairs="Current affairs are well analysed"; pyq_practice="PYQs are available with free explanations" |
+312 | current_affairs="doing current affairs and daily prelims questions"; daily_targets="it became a habit" |
+313 | progress_tracking="gauging progress on a daily basis"; mcq_quality="daily MCQs practice"; current_affairs="current affairs coverage" |
+314 | current_affairs="along with current affairs" |
+315 | | LC
+316 | pyq_practice="Great for PYQs"; progress_tracking="see accuracy of each subject" |
+317 | current_affairs="specially Current affairs parts"; all_in_one="no need to search other options" |
+318 | | LC
+319 | eval_quality="amz evaluation of mains answer" |
+320 | | LC
+321 | | LC
+322 | loses_place="the app starts again when we switch to another" |
+323 | hindi_medium="it is not available in Hindi" | SEG:hindi_medium S:mix
+324 | pyq_practice="highlight for PYQs topic wise"; current_affairs="easy access for current affairs briefing" |
+325 | | LC
+326 | | LC
+327 | mcq_quality="useful for practicing mcq" |
+328 | | LC
+329 | sound_not_mutable="turn off sound option" |
+330 | | LC
+331 | study_modules="the information provided is precise and clear" |
+332 | sound_not_mutable="make the sound optional" | S:mix
+333 | ipad_layout="Provision to use the app on Landscape mode is very necessary for iPad users" | SEG:ipad
+334 | study_modules="after reading each chapter, the summary questions" |
+335 | | LC
+336 | mcq_quality="practicing UPSC-level MCQs" |
+337 | paywall_limits="now it's completely paid"; too_expensive="They are charging 699 for one month" |
+338 | paywall_limits="Free Access Ended" | S:mix
+339 | current_affairs="reading newspaper"; mcq_quality="solve daily mcqs for prelims"; eval_quality="mains answers evaluation"; study_modules="subjects notes are amazing"; daily_targets="maintain my daily schedule" |
+340 | | LC
+341 | | LC
+342 | | LC
+343 | eval_quality="especially answer writing mains evaluation"; test_formats="the paper being check by a person"; daily_targets="track daily task" |
+344 | | LC
+345 | | LC
+346 | study_modules="content is decent" |
+347 | ai_doubts="Personalised AI Doubt solving Mentor"; responsive_team="24/7 Live WhatsApp support"; eval_speed="evaluation within 60 seconds"; pyq_practice="Unlimited PYQ's solving" | SEG:paid
+348 | pyq_practice="PYQ tool is very helpful"; current_affairs="news explainations are also very lucid"; too_expensive="Price can be changed to make it more affordable" |
+349 | misleading_ads="their promotion videos and reality does not match" |
+350 | all_in_one="takes care of almost everything" |
+351 | | LC
+352 | | LC
+353 | ipad_layout="Please update app for IPAD" | SEG:ipad
+354 | ai_doubts="every doubt is cleared" |
+355 | | LC
+356 | | LC
+357 | ipad_layout="Doesn’t support iPad" | SEG:ipad
+358 | | LC
+359 | hindi_medium="make it available in hindi medium" | SEG:hindi_medium
+360 | | LC

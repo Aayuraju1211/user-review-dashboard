@@ -1,8 +1,0 @@
-# Static site: the dashboard lives in web/ and reads web/data/dashboard.json.
-[build]
-  publish = "web"
-
-[[headers]]
-  for = "/data/*"
-  [headers.values]
-    Cache-Control = "no-cache"

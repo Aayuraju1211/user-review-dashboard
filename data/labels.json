@@ -7123,5 +7123,22 @@
   "competitors": [],
   "labelled_by": "hand-v1",
   "sentiment": "positive"
+ },
+ "4ee9cc78-7868-4228-9968-a207cb3d5b05": {
+  "mentions": [
+   {
+    "theme": "hindi_medium",
+    "evidence": "Hindi not a option for questions"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "hindi_medium"
+  ],
+  "competitors": [],
+  "sentiment": "negative",
+  "labelled_by": "model:gemini/gemini-2.5-flash@p2"
  }
 }

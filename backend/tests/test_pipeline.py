@@ -19,9 +19,13 @@ DASH = json.loads((ROOT / "web" / "data" / "dashboard.json").read_text(encoding=
 
 
 class Labels(unittest.TestCase):
-    def test_every_review_is_labelled(self):
+    def test_unlabelled_reviews_are_shown_as_waiting(self):
         missing = [r["review_id"] for r in REVIEWS if r["review_id"] not in LABELS]
-        self.assertEqual(missing, [], "unlabelled reviews")
+        self.assertEqual(DASH["meta"]["unlabelled"], len(missing))
+
+    def test_every_label_says_who_labelled_it(self):
+        for rid, lab in LABELS.items():
+            self.assertTrue(lab["labelled_by"] == "hand-v1" or lab["labelled_by"].startswith("model:"), rid)
 
     def test_labels_use_known_values(self):
         for rid, lab in LABELS.items():
@@ -37,9 +41,14 @@ class Labels(unittest.TestCase):
     def test_evidence_is_quoted_from_the_review(self):
         by_id = {r["review_id"]: r for r in REVIEWS}
         for rid, lab in LABELS.items():
+            if rid not in by_id:
+                continue  # review deleted from the store since it was labelled
             hay = norm((by_id[rid].get("review_title") or "") + " " + by_id[rid]["review_text"])
-            for m in lab["mentions"]:
-                self.assertIn(norm(m["evidence"]), hay, f"{rid}: {m['evidence']}")
+            quotes = [m["evidence"] for m in lab["mentions"]] + [c["evidence"] for c in lab["competitors"]]
+            if lab["critical"]:
+                quotes.append(lab["critical"]["evidence"])
+            for q in quotes:
+                self.assertIn(norm(q), hay, f"{rid}: {q}")
 
 
 class Dashboard(unittest.TestCase):

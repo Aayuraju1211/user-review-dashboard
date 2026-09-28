@@ -1,0 +1,52 @@
+name: Refresh reviews
+
+on:
+  schedule:
+    - cron: "0 3 1,15 * *"   # 1st and 15th of each month, 08:30 IST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Refresh
+        run: python backend/refresh.py
+        env:
+          PYTHONIOENCODING: utf-8
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_PROVIDER: ${{ secrets.LLM_PROVIDER }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+          ALERT_RECIPIENTS: ${{ secrets.ALERT_RECIPIENTS }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          ALERT_FROM: ${{ secrets.ALERT_FROM }}
+          DASHBOARD_URL: ${{ vars.DASHBOARD_URL }}
+
+      - name: Commit refreshed data
+        run: |
+          git add data web/data
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh: $(date -u +%Y-%m-%d)"
+          git push

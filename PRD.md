@@ -83,11 +83,15 @@ Turns public App Store and Google Play reviews of SuperKalam (a UPSC exam prep a
 
 **Flow**
 ```
-ingest.py      ->  data/reviews.json      master store + changes.json log
-labelling      ->  data/labels.json       themes and flags per review
+ingest.py      ->  data/reviews.json        master store + changes.json log
+label_new.py   ->  data/labels.json         LLM labels new reviews only, validated
 build.py       ->  web/data/dashboard.json  every number, computed in code
-web/           ->  static dashboard, hosted on Netlify
+tests          ->  must pass before anything is published
+alerts.py      ->  email for unanswered critical reviews
+web/           ->  static dashboard, hosted on Vercel
 ```
+- `refresh.py` runs these in order; GitHub Actions runs it on the 1st and 15th of each month and commits the new data, which redeploys the site.
+- The LLM key is read from `.env` locally and from GitHub Secrets in the scheduled run; it never enters the repo.
 
 **Classification**
 - Each review is split into mentions. Each mention gets a product area (12 areas), a kind (problem, request or praise), and a type and sub-type.
@@ -104,9 +108,10 @@ web/           ->  static dashboard, hosted on Netlify
 - Critical is decided by what the review says, not its rating.
 
 **Labelling**
-- V1: all 475 reviews labelled by hand.
-- Next: an LLM labels only new reviews, in the same format, checked against the V1 labels.
+- V1: all 475 reviews labelled by hand. Hand labels are never overwritten.
+- New reviews: labelled by an LLM (Google Gemini, free tier) in the same format. The prompt is built from the rulebook plus 12 hand-labelled examples.
 - Every label must use a known theme, and its evidence must appear word for word in the review. Otherwise it is rejected.
+- Quality gate against 60 hand-labelled reviews: theme F1 0.91 (gate 0.75); critical reviews found 8 of 8 with no false alarms (gate 100%); low-context agreement 98%. The critical rules were clarified after a first run missed 2 of 8, so re-run the gate as new critical reviews arrive.
 
 **Stack**
 - Python, static HTML/CSS/JS and JSON files in the GitHub repo. No database, no server, $0.
@@ -132,7 +137,12 @@ web/           ->  static dashboard, hosted on Netlify
 | Hinglish or Hindi text | Labelled like English; the font supports Devanagari |
 | Very few reviews behind a number | Counts are shown alongside percentages; priority reads "Too few to tell" |
 | New reviews not labelled yet | Counted in the rating; Home shows how many are waiting |
-| The LLM invents a theme or a quote (next phase) | Rejected by the evidence and taxonomy checks before publishing |
+| The LLM invents a theme or a quote | Theme ids are limited to the rulebook; any quote not found word for word is dropped; a review with nothing valid left stays unlabelled and shows as waiting |
+| The LLM model is busy or the free-tier limit is hit | Retries with backoff, then falls back to the next model; each label records which model made it |
+| A store returns a truncated list | The refresh stops if more than 20 reviews disappear in one pull, and restores every data file |
+| LLM key missing | Plain message naming the `.env` line to add; the refresh stops before changing anything |
+| Alert email not configured | Skipped with a message; the rest of the refresh still publishes |
+| A scheduled run fails | Nothing is committed, so the site keeps its last good data; GitHub emails the repo owner |
 | A critical review stays unanswered | Included in every refresh's alert until it gets a reply |
 | No results for a filter | Empty state with a Clear filters action |
 | Invalid custom date range | Message asking for both dates, with the start date on or before the end date |

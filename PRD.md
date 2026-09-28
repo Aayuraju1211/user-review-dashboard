@@ -4,7 +4,7 @@ Turns public App Store and Google Play reviews of SuperKalam (a UPSC exam prep a
 
 ## Why
 
-- Ratings hide the problems: the average is 4.56 and 82% of reviews are 5 stars, yet users report crashes, paywall frustration and missing Hindi-medium content.
+- Ratings hide the problems: written reviews average 4.56 and 82% are 5 stars, yet users report crashes, paywall frustration and missing Hindi-medium content.
 - 40% of reviews say nothing specific ("best app", "bad"), which buries the useful ones.
 - Volume is low (about 2 reviews a day), so single reports get lost instead of adding up.
 - Without owner access there are no webhooks or reply data from Apple, so only public data can be used.
@@ -29,6 +29,7 @@ Turns public App Store and Google Play reviews of SuperKalam (a UPSC exam prep a
 - App Store reply status, which Apple doesn't publish.
 - Alerts from support channels, which a separate CS process handles.
 - Tracking what the team shipped; that belongs in Jira or ClickUp.
+- Star-only ratings (about 350 on Play and 100 on the App Store). They have no text to analyse, can't be broken down by month, and aren't published one by one. Every rating on the dashboard is therefore the written-review rating, and is labelled that way.
 - Other sources such as social media or support tickets (V2).
 - Logins and roles.
 
@@ -37,7 +38,7 @@ Turns public App Store and Google Play reviews of SuperKalam (a UPSC exam prep a
 **Home: a glance, no tables**
 - Since-last-update line: new reviews, rating change and critical count, with the full update and past updates in a panel.
 - Four cards: To fix, To build, To protect, Critical. Each shows a count, what's new, a trend line and the largest item.
-- One chart that switches between average rating and reviews per month.
+- One chart that switches between the written-review rating and reviews per month, with a note on why it differs from the store rating.
 - Where problems come from (by product area), and reviews worth reading.
 
 **Feedback: Fix, Build and Protect tabs**
@@ -54,6 +55,7 @@ Turns public App Store and Google Play reviews of SuperKalam (a UPSC exam prep a
 - Critical reviews, longest wait first: category, trigger phrase, store, reply status, alert status.
 - Reply rate and median reply time.
 - Alert email preview.
+- CSV export of the queue.
 
 **Reviews: every review**
 - Search, filters (period, store, rating, area, feedback type) and pages of 25.
@@ -64,7 +66,9 @@ Turns public App Store and Google Play reviews of SuperKalam (a UPSC exam prep a
 **Detail panels (every row opens one)**
 - Theme: counts, first and last seen, average rating, share from 1 to 3 star reviews, quotes, other phrasings, definition.
 - Review: full text with evidence highlighted, what it mentions, the reviewer's segment, developer reply.
-- Back button when one panel opens another. "Save as ticket" is shown as coming soon.
+- Copy as ticket: copies a Markdown block (title, description, review count, first and last seen, average rating, quotes) that pastes into Jira, Linear, ClickUp or GitHub.
+- Download CSV of every review behind a theme.
+- Back button when one panel opens another.
 
 **Alerts**
 - After each refresh, email Google Play critical reviews that have no reply.
@@ -123,6 +127,7 @@ web/           ->  static dashboard, hosted on Netlify
 | Review dates are last-edited dates | Shown as they are |
 | A review says nothing specific | Counts in the rating, left out of theme counts, has its own view |
 | The star rating contradicts the text | Flagged; the text decides sentiment and themes |
+| The store rating differs from the dashboard's (e.g. Play 4.68 from 758 ratings, against 411 written reviews) | Labelled "Written-review rating" everywhere; Home explains the gap. Star-only ratings are out of scope (see Non-goals) |
 | A sudden burst of reviews | Flagged as a spike day; the viewer decides whether to count it |
 | Hinglish or Hindi text | Labelled like English; the font supports Devanagari |
 | Very few reviews behind a number | Counts are shown alongside percentages; priority reads "Too few to tell" |

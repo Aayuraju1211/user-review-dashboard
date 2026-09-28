@@ -133,6 +133,38 @@ function chipsRow(chips) {
   if (!chips.length) return "";
   return `<div class="chips">${chips.map(([k, label]) => `<span class="chip">${esc(label)}<button data-unchip="${esc(k)}" aria-label="Remove filter ${esc(label)}">×</button></span>`).join("")}<button class="linkbtn" data-clear="1">Clear all</button></div>`;
 }
+/* ---- Copy as ticket: a plain Markdown summary any tracker accepts (Jira, Linear, ClickUp, GitHub) */
+const plainText = html => { const d = document.createElement("div"); d.innerHTML = html; return d.textContent; };
+function ticketMarkdown(id) {
+  const t = themeMap()[id]; if (!t) return "";
+  const kind = { problem: "Problem to fix", request: "Request to build", praise: "What users love" }[t.kind];
+  const detail = t.kind === "problem" ? `${t.severity}. ${t.type}: ${t.sub.toLowerCase()}` : t.kind === "request" ? `${t.priority}. ${t.rtype}` : `Loved for ${t.reason.toLowerCase()}`;
+  const lines = [
+    `## ${t.name}`, "",
+    `**Type:** ${kind}. ${detail}`,
+    `**Product area:** ${areaName(t.area)}`,
+    `**Reviews:** ${t.n} (last 90 days: ${t.cur90}, the 90 days before: ${t.prev90})`,
+    `**First seen:** ${fd(t.first)}`,
+    `**Last seen:** ${fd(t.last)}`,
+    `**Average rating of these reviews:** ${t.avg_rating.toFixed(1)} out of 5` + (t.kind !== "praise" ? ` (${t.unhappy_pct}% from 1 to 3 star reviews)` : ""),
+    "", `**Description:** ${t.definition || ""}`, "", "**What users say:**",
+  ];
+  t.quotes.forEach(q => { const r = REV[q.review_id]; if (r) lines.push(`> "${plainText(excerpt(r.text, q.evidence)).replace(/\s+/g, " ")}"`, ">", `> ${r.who}, ${stars(r.stars)}, ${fd(r.date)}, ${r.store}`, ""); });
+  const phr = (t.phrasings || []).filter(p => !t.quotes.some(q => q.evidence === p));
+  if (phr.length) { lines.push("**Also phrased as:**"); phr.forEach(p => lines.push(`- "${p}"`)); lines.push(""); }
+  lines.push(`_Source: SuperKalam User Review Dashboard, data as of ${fd(D.meta.as_of)}._`);
+  return lines.join("\n");
+}
+function copyText(text, okMsg) {
+  const fallback = () => {
+    const ta = document.createElement("textarea"); ta.value = text; ta.setAttribute("readonly", ""); ta.style.position = "fixed"; ta.style.opacity = "0";
+    document.body.appendChild(ta); ta.select();
+    let ok = false; try { ok = document.execCommand("copy"); } catch (e) { ok = false; }
+    ta.remove(); toast(ok ? okMsg : "Couldn't copy here. Use Download CSV instead.");
+  };
+  if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(text).then(() => toast(okMsg), fallback);
+  else fallback();
+}
 function download(name, rows) {
   const csv = rows.map(r => r.map(v => `"${String(v ?? "").replace(/"/g, '""')}"`).join(",")).join("\r\n");
   const url = URL.createObjectURL(new Blob(["﻿" + csv], { type: "text/csv;charset=utf-8" }));
@@ -152,7 +184,7 @@ function trendChart() {
     for (let v = lo; v <= hi + 1e-9; v += 0.5) g += `<line class="grid" x1="${L}" x2="${W - R}" y1="${y(v)}" y2="${y(v)}"/><text x="${L - 8}" y="${y(v) + 4}" text-anchor="end">${v.toFixed(1)}</text>`;
     const pts = M.map((m, i) => [L + i * bw + bw / 2, y(m.avg_rating)]);
     body += `<path d="${pts.map((p, i) => (i ? "L" : "M") + p[0].toFixed(1) + "," + p[1].toFixed(1)).join("")}" fill="none" stroke="var(--s-line)" stroke-width="2" stroke-linejoin="round"/>`;
-    M.forEach((m, i) => { body += `<circle cx="${pts[i][0]}" cy="${pts[i][1]}" r="4" fill="var(--s-line)" stroke="var(--l1)" stroke-width="2"/><rect class="hit" x="${L + i * bw}" y="${T}" width="${bw}" height="${ih}" data-tip="${fm(m.month)}: ${m.avg_rating.toFixed(2)} average from ${plural(m.reviews, "review")}"/>`; });
+    M.forEach((m, i) => { body += `<circle cx="${pts[i][0]}" cy="${pts[i][1]}" r="4" fill="var(--s-line)" stroke="var(--l1)" stroke-width="2"/><rect class="hit" x="${L + i * bw}" y="${T}" width="${bw}" height="${ih}" data-tip="${fm(m.month)}: ${m.avg_rating.toFixed(2)} average from ${plural(m.reviews, "written review")}"/>`; });
     const low = M.reduce((a, m, i) => m.avg_rating < M[a].avg_rating ? i : a, 0);
     body += `<text x="${pts[low][0]}" y="${Math.min(H - 26, pts[low][1] + 20)}" text-anchor="middle" style="fill:var(--ink-2)">Lowest: ${M[low].avg_rating.toFixed(2)}</text>`;
   } else {
@@ -160,7 +192,7 @@ function trendChart() {
     for (let v = 0; v <= max; v += max / 4) g += `<line class="${v ? "grid" : "axis"}" x1="${L}" x2="${W - R}" y1="${y(v)}" y2="${y(v)}"/><text x="${L - 8}" y="${y(v) + 4}" text-anchor="end">${Math.round(v)}</text>`;
     M.forEach((m, i) => { const x = L + i * bw + bw * .2, w = bw * .6, top = y(m.reviews); body += `<path d="M${x},${y(0)}V${Math.min(y(0), top + 4)}Q${x},${top} ${x + 4},${top}H${x + w - 4}Q${x + w},${top} ${x + w},${Math.min(y(0), top + 4)}V${y(0)}Z" fill="var(--s-line)"/><rect class="hit" x="${L + i * bw}" y="${T}" width="${bw}" height="${ih}" data-tip="${fm(m.month)}: ${plural(m.reviews, "review")}${m.spike_reviews ? `, ${m.spike_reviews} on spike days` : ""}"/>`; });
   }
-  return `<svg class="chart" viewBox="0 0 ${W} ${H}" role="img" aria-label="${S.chart === "rating" ? "Average rating per month" : "Reviews per month"}">${g}${body}${lbl}</svg>`;
+  return `<svg class="chart" viewBox="0 0 ${W} ${H}" role="img" aria-label="${S.chart === "rating" ? "Average rating of written reviews per month" : "Reviews per month"}">${g}${body}${lbl}</svg>`;
 }
 
 /* ------------------------------------------------------------------ pages */
@@ -183,16 +215,16 @@ function pHome() {
   const notable = (u.notable || []).map(id => { const r = REV[id]; return r ? quoteHTML(id, (r.critical && r.critical.evidence) || (r.mentions[0] && r.mentions[0].evidence), r.critical ? "Critical" : "") : ""; }).join("");
   const delta = u.prev_avg_rating != null && u.avg_rating != null ? `, was ${u.prev_avg_rating.toFixed(2)}` : "";
   const unl = D.meta.unlabelled ? `<p class="note box">${plural(D.meta.unlabelled, "new review")} ${D.meta.unlabelled === 1 ? "is" : "are"} waiting to be sorted into themes. ${D.meta.unlabelled === 1 ? "It counts" : "They count"} in the rating but not yet in problems or requests.</p>` : "";
-  return `<header class="phead"><div class="t"><h1>SuperKalam reviews</h1><p>What ${tot.reviews} Google Play and App Store reviewers say, from ${fmLong(tot.first_date)} to ${fmLong(tot.last_date)}. Updated ${fd(D.meta.as_of)}.</p>${S.spikes ? "" : `<span class="sample">Spike-day reviews are left out of every number. Change this in Reviews.</span>`}</div></header>
+  return `<header class="phead"><div class="t"><h1>SuperKalam reviews</h1><p>What Google Play and App Store reviewers say, from ${fmLong(tot.first_date)} to ${fmLong(tot.last_date)}. Updated ${fd(D.meta.as_of)}.</p>${S.spikes ? "" : `<span class="sample">Spike-day reviews are left out of every number. Change this in Reviews.</span>`}</div></header>
   ${unl}
-  <section class="card update" aria-label="Since the last update"><b>Since the last update, ${esc(u.label)}</b><div class="facts"><span><strong>${u.reviews}</strong> new ${u.reviews === 1 ? "review" : "reviews"}</span>${u.avg_rating != null ? `<span>Average rating <strong>${u.avg_rating.toFixed(2)}</strong>${delta}</span>` : ""}<span><strong>${u.critical}</strong> critical</span></div><button class="btn go" data-open="update">See what changed</button></section>
+  <section class="card update" aria-label="Since the last update"><b>Since the last update, ${esc(u.label)}</b><div class="facts"><span><strong>${u.reviews}</strong> new ${u.reviews === 1 ? "review" : "reviews"}</span>${u.avg_rating != null ? `<span>Written-review rating <strong>${u.avg_rating.toFixed(2)}</strong>${delta}</span>` : ""}<span><strong>${u.critical}</strong> critical</span></div><button class="btn go" data-open="update">See what changed</button></section>
   <section class="kpis" aria-label="Summary">
     ${tile("#feedback-fix", "To fix", fix.length, "problems", `${newCount(fix)} new in the last 2 weeks`, M.map(m => m.problem), "var(--s-prob)", fix[0] ? `Largest: <b>${esc(fix[0].name)}</b>, ${plural(fix[0].n, "review")}` : "No problems reported", "View all problems")}
     ${tile("#feedback-build", "To build", build.length, "requests", `${newCount(build)} new in the last 2 weeks`, M.map(m => m.request), "var(--s-req)", build[0] ? `Largest: <b>${esc(build[0].name)}</b>, ${plural(build[0].n, "review")}` : "No requests yet", "View all requests")}
     ${tile("#feedback-protect", "To protect", protect.length, "loved features", `${plural(M.length ? M[M.length - 1].praise : 0, "review")} with praise this month`, M.map(m => m.praise), "var(--s-praise)", protect[0] ? `Most loved: <b>${esc(protect[0].name)}</b>` : "", "View what's working")}
     ${tile("#support", "Critical reviews", D.critical.length, "all time", waiting.length ? `<span class="new">${waiting.length} waiting ${maxWait} days for a reply</span>` : "All answered or on the App Store", M.map(m => m.critical), "var(--crit)", "Paid access, charges, lockouts and failed support", "Open support queue", waiting.length ? "crit" : "")}
   </section>
-  <section class="card pad"><div class="card-h"><h2>How users rate the app</h2><div class="seg" role="group" aria-label="Chart measure"><button aria-pressed="${S.chart === "rating"}" data-chart="rating">Average rating</button><button aria-pressed="${S.chart === "reviews"}" data-chart="reviews">Reviews per month</button></div></div><div class="chartwrap">${trendChart()}</div></section>
+  <section class="card pad"><div class="card-h"><h2>How reviewers rate the app</h2><div class="seg" role="group" aria-label="Chart measure"><button aria-pressed="${S.chart === "rating"}" data-chart="rating">Written-review rating</button><button aria-pressed="${S.chart === "reviews"}" data-chart="reviews">Reviews per month</button></div></div><div class="chartwrap">${trendChart()}</div><p class="meta" style="margin-top:var(--sp-3)">Based on written reviews only. The store rating also counts star-only ratings, which have no text to analyse, so it can differ.</p></section>
   <div class="grid-2">
     <section class="card pad"><div class="card-h"><h2>Where problems come from</h2><a href="#breakdowns" class="sec">See breakdowns</a></div><div class="bars">${areas.map(a => `<a class="bar" href="#feedback-fix" data-area="${esc(a.key)}"><span>${esc(a.label)}</span><span class="track"><span class="fill" style="display:block;width:${a.problems / mx * 100}%"></span></span><span class="v num">${a.problems}</span></a>`).join("")}</div></section>
     <section class="card pad"><div class="card-h"><h2>Reviews worth reading</h2><a href="#reviews" class="sec">All reviews</a></div>${notable || `<p class="sec">No new reviews in the last two weeks.</p>`}</section>
@@ -320,10 +352,10 @@ function pBreakdowns() {
   return `<header class="phead"><div class="t"><h1>Breakdowns</h1><p>How problems, requests and praise split by product area, app version or type of user.</p></div><button class="btn" data-export="breakdown">Export CSV</button></header>
   <div class="toolbar"><div class="brange">${periodField(S.bperiod, "bperiod", "Date range", `<button class="btn primary" id="applyRange">Apply range</button>`)}</div>
     <div class="field"><span style="font-size:var(--t-sec);font-weight:500">Group by</span><div class="seg" role="group" aria-label="Group by">${Object.entries(labels).map(([id, l]) => `<button aria-pressed="${S.group === id}" data-group="${id}">${l}</button>`).join("")}</div></div></div>
-  <section class="kpis" style="grid-template-columns:repeat(3,minmax(0,1fr))" aria-label="Totals"><div class="card kpi"><span class="lbl">Reviews</span><span class="big"><b class="num">${B.totals.reviews}</b></span></div><div class="card kpi"><span class="lbl">Average rating</span><span class="big"><b class="num">${B.totals.avg_rating != null ? B.totals.avg_rating.toFixed(2) : "–"}</b><span>out of 5</span></span></div><div class="card kpi"><span class="lbl">Mixed or negative</span><span class="big"><b class="num">${B.totals.mixed_or_negative_pct}%</b><span>of reviews</span></span></div></section>
+  <section class="kpis" style="grid-template-columns:repeat(3,minmax(0,1fr))" aria-label="Totals"><div class="card kpi"><span class="lbl">Reviews</span><span class="big"><b class="num">${B.totals.reviews}</b></span></div><div class="card kpi"><span class="lbl">Written-review rating</span><span class="big"><b class="num">${B.totals.avg_rating != null ? B.totals.avg_rating.toFixed(2) : "–"}</b><span>out of 5</span></span></div><div class="card kpi"><span class="lbl">Mixed or negative</span><span class="big"><b class="num">${B.totals.mixed_or_negative_pct}%</b><span>of reviews</span></span></div></section>
   <section class="card pad"><div class="card-h"><h2>Feedback by ${labels[S.group].toLowerCase()}</h2><div class="legend"><span><i style="background:var(--s-prob)"></i>Problems</span><span><i style="background:var(--s-req)"></i>Requests</span><span><i style="background:var(--s-praise)"></i>Praise</span></div></div>
     ${rows.length ? `<div class="bars">${rows.slice(0, 12).map(r => `<div class="bar drill" role="button" tabindex="0" data-drill="${esc(r.key)}" aria-label="${esc(r.label)}: ${r.problems} problems, ${r.requests} requests, ${r.praise} praise. Open details"><span>${esc(r.label)}</span><span style="display:block"><span class="stack" style="width:${(r.problems + r.requests + r.praise) / max * 100}%">${[[r.problems, "var(--s-prob)", "problems", "problem"], [r.requests, "var(--s-req)", "requests", "request"], [r.praise, "var(--s-praise)", "praise", "praise"]].filter(s => s[0] > 0).map(s => `<span style="flex:${s[0]};background:${s[1]}" data-drill="${esc(r.key)}" data-drill-kind="${s[3]}" data-tip="${esc(r.label)}: ${s[0]} ${s[2]}. Click to see them"></span>`).join("")}</span></span><span class="v num">${r.problems + r.requests + r.praise}</span></div>`).join("")}</div>` : `<p class="sec">No reviews in this range.</p>`}</section>
-  <div class="tframe"><div class="tscroll"><table><thead><tr><th scope="col">${labels[S.group]}</th><th class="r" scope="col">Reviews</th><th class="r" scope="col" ${S.group !== "version" ? 'aria-sort="descending"' : ""}>Problems</th><th class="r" scope="col">Requests</th><th class="r" scope="col">Praise</th><th class="r" scope="col">Average rating</th>${extraHead}</tr></thead><tbody>${rows.map(r => `<tr class="row" data-drill="${esc(r.key)}" tabindex="0"><td><button class="rowlink" data-drill="${esc(r.key)}">${esc(r.label)}${chevron}</button></td><td class="r num">${r.reviews}</td><td class="r num">${r.problems}</td><td class="r num">${r.requests}</td><td class="r num">${r.praise}</td><td class="r num">${r.avg_rating != null ? r.avg_rating.toFixed(1) : "–"}</td>${extraCell(r)}</tr>`).join("") || `<tr><td colspan="7"><div class="empty"><b>No reviews in this range</b></div></td></tr>`}</tbody></table></div>${pager(rows.length)}</div>
+  <div class="tframe"><div class="tscroll"><table><thead><tr><th scope="col">${labels[S.group]}</th><th class="r" scope="col">Reviews</th><th class="r" scope="col" ${S.group !== "version" ? 'aria-sort="descending"' : ""}>Problems</th><th class="r" scope="col">Requests</th><th class="r" scope="col">Praise</th><th class="r" scope="col">Written-review rating</th>${extraHead}</tr></thead><tbody>${rows.map(r => `<tr class="row" data-drill="${esc(r.key)}" tabindex="0"><td><button class="rowlink" data-drill="${esc(r.key)}">${esc(r.label)}${chevron}</button></td><td class="r num">${r.reviews}</td><td class="r num">${r.problems}</td><td class="r num">${r.requests}</td><td class="r num">${r.praise}</td><td class="r num">${r.avg_rating != null ? r.avg_rating.toFixed(1) : "–"}</td>${extraCell(r)}</tr>`).join("") || `<tr><td colspan="7"><div class="empty"><b>No reviews in this range</b></div></td></tr>`}</tbody></table></div>${pager(rows.length)}</div>
   <section class="card pad"><div class="card-h"><h2>Competitor mentions</h2><span class="sec">${plural(comps.reduce((a, c) => a + c.mentions, 0), "mention")}, ${esc(periodLabel(S.bperiod).toLowerCase())}</span></div>
     ${comps.map(c => `<div class="comp"><div class="row"><b>${esc(c.name)}</b><span class="sec">${Object.entries(c.contexts).map(([k, n]) => `${esc(D.taxonomy.competitor_contexts[k])}: ${n}`).join(", ")}</span></div>${c.quotes.slice(0, 2).map(q => quoteHTML(q.review_id, q.evidence)).join("")}</div>`).join("") || `<p class="sec">No competitors mentioned.</p>`}</section>`;
 }
@@ -339,7 +371,7 @@ function pSupport() {
   const fields = [["period", "Period", null, S.f.period || ""], ["cat", "Category", Object.entries(D.taxonomy.critical_categories), S.f.cat || ""], ["store", "Store", [["Google Play", "Google Play"], ["App Store", "App Store"]], S.f.store || ""], ["reply", "Reply", [["No reply", "No reply"], ["Replied", "Replied"], ["Unknown", "Unknown"]], S.f.reply || ""]];
   const chips = [S.f.period && ["period", "Period: " + periodLabel(S.f.period)], S.f.cat && ["cat", "Category: " + D.taxonomy.critical_categories[S.f.cat]], S.f.store && ["store", "Store: " + S.f.store], S.f.reply && ["reply", "Reply: " + S.f.reply]].filter(Boolean);
   return `<header class="phead"><div class="t"><h1>Critical reviews</h1><p>Reviews that need escalation, whatever their rating. The developer replies to ${rs.reply_rate}% of Google Play reviews and ${rs.critical_reply_rate}% of critical ones, in a median of ${rs.median_reply_days} days.</p></div><button class="btn" data-open="email">Preview alert email</button></header>
-  <div class="toolbar">${searchBox("Search critical reviews")}${filtersPopover(fields, chips.length)}</div>${chipsRow(chips)}
+  <div class="toolbar">${searchBox("Search critical reviews")}${filtersPopover(fields, chips.length)}<button class="icon-btn" data-export="support" aria-label="Download CSV" data-tip="Download CSV"><svg width="18" height="18" viewBox="0 0 18 18" aria-hidden="true"><path d="M9 3v8m0 0 3-3m-3 3L6 8M3 13v2h12v-2" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button></div>${chipsRow(chips)}
   <div class="tframe"><div class="tscroll"><table><thead><tr><th scope="col" aria-sort="descending">Waiting ↓</th><th scope="col">What they said</th><th scope="col">Category</th><th scope="col">Store</th><th scope="col">Reply</th><th scope="col">Alert</th></tr></thead><tbody>${rows.map(c => { const r = REV[c.review_id]; return `<tr class="row" data-review="${c.review_id}" tabindex="0"><td class="num" style="white-space:nowrap">${c.waiting_days != null ? `<b style="color:var(--crit);font-weight:600">${plural(c.waiting_days, "day")}</b>` : "–"}<div class="meta">${fd(c.date)}</div></td><td><button class="rowlink" data-review="${c.review_id}"><span class="clip">${excerpt(r.text, c.evidence, 160)}</span>${chevron}</button><div class="meta">${esc(r.who)}, ${stars(r.stars)}</div></td><td>${esc(c.category_label)}</td><td class="nowrap">${esc(c.store)}</td><td class="nowrap">${c.reply === "No reply" ? `<span class="sev blocking"><i aria-hidden="true"></i>No reply</span>` : c.reply === "Unknown" ? `<span class="sec">Unknown</span>` : esc(replyIn(c.reply_hours))}</td><td class="sec">${esc(c.alert)}</td></tr>`; }).join("") || `<tr><td colspan="6"><div class="empty"><b>No critical reviews match</b><button class="btn" data-clear="1">Clear filters</button></div></td></tr>`}</tbody></table></div>${pager(rows.length)}</div>
   <p class="note">App Store reviews show “Unknown” because Apple doesn't publish developer replies, so they are never included in alerts.</p>`;
 }
@@ -409,7 +441,7 @@ function themePanel(id) {
     ${phr.length ? `<section><h3 style="margin-bottom:var(--sp-2)">Also phrased as</h3><ul class="plain">${phr.map(p => `<li>“${esc(p)}”</li>`).join("")}</ul></section>` : ""}
     <section><h3 style="margin-bottom:var(--sp-2)">What counts here</h3><p class="sec">${esc(t.definition || "")}</p></section>
   </div>
-  <div class="over-f"><button class="btn primary" data-reviews-for="${t.id}">View ${plural(t.n, "review")}</button><button class="btn" disabled aria-describedby="soon">Save as ticket</button><span class="meta" id="soon">Coming soon</span></div>`;
+  <div class="over-f"><button class="btn primary" data-reviews-for="${t.id}">View ${plural(t.n, "review")}</button><button class="btn" data-ticket="${t.id}">Copy as ticket</button><button class="btn" data-export="theme:${t.id}">Download CSV</button></div>`;
 }
 function reviewPanel(id) {
   const r = REV[id]; if (!r) return "";
@@ -468,7 +500,7 @@ function onReviewsPage() { return (location.hash || "").startsWith("#reviews"); 
 
 /* ------------------------------------------------------------------ events */
 document.addEventListener("click", e => {
-  const t = e.target.closest("[data-tab],[data-theme],[data-review],[data-open],[data-close],[data-back],[data-drill],[data-drilltab],[data-drill-open],[data-chart],[data-group],[data-rview],[data-unchip],[data-clear],[data-reviews-for],[data-export],[data-pg],#filtersBtn,#applyF,#applyRange,#applyFbRange,.bar[data-area]");
+  const t = e.target.closest("[data-tab],[data-theme],[data-review],[data-open],[data-close],[data-back],[data-drill],[data-drilltab],[data-drill-open],[data-chart],[data-group],[data-rview],[data-unchip],[data-clear],[data-reviews-for],[data-export],[data-ticket],[data-pg],#filtersBtn,#applyF,#applyRange,#applyFbRange,.bar[data-area]");
   if (!t) return;
   if (t.matches("[data-close]")) { closeOver(); return; }
   if (t.matches("[data-back]")) { backOver(); return; }
@@ -493,6 +525,7 @@ document.addEventListener("click", e => {
   if (t.dataset.clear) { if (onReviewsPage()) { S.rfilter = {}; S.rchips = []; S.rpage = 0; } else S.f = {}; S.q = ""; S.pop = false; rerender(); return; }
   if (t.dataset.reviewsFor) { closeOver(); S.rview = "all"; S.rfilter = {}; S.rchips = [t.dataset.reviewsFor]; S.rpage = 0; location.hash = "reviews"; return; }
   if (t.dataset.export) { exportCSV(t.dataset.export); return; }
+  if (t.dataset.ticket) { const name = (themeMap()[t.dataset.ticket] || {}).name; copyText(ticketMarkdown(t.dataset.ticket), `Copied “${name}” as a ticket`); return; }
   if (t.id === "filtersBtn") { S.pop = !S.pop; rerender(); if (S.pop) $("#filtersPop select")?.focus(); return; }
   if (t.id === "applyF") {
     const target = onReviewsPage() ? S.rfilter : S.f;
@@ -536,12 +569,23 @@ document.addEventListener("keydown", e => {
   }
 });
 function exportCSV(what) {
+  if (what.startsWith("theme:")) {
+    const t = themeMap()[what.slice(6)]; if (!t) return;
+    const ev = id => (REV[id].mentions.find(m => m.theme === t.id) || {}).evidence || "";
+    const rows = t.review_ids.map(id => REV[id]).sort((a, b) => b.date.localeCompare(a.date));
+    download(`${t.id.replace(/_/g, "-")}-reviews.csv`, [["Theme", "Date", "Reviewer", "Rating", "Store", "Version", "What they said", "Full review", "Reply"]].concat(rows.map(r => [t.name, r.date, r.who, r.stars, r.store, r.version, ev(r.id), r.text, r.reply])));
+    return;
+  }
+  if (what === "support") {
+    download("critical-reviews.csv", [["Date", "Reviewer", "Rating", "Store", "Category", "Trigger phrase", "Full review", "Reply", "Waiting days", "Alert"]].concat(critRows().map(c => { const r = REV[c.review_id]; return [c.date, r.who, r.stars, c.store, c.category_label, c.evidence, r.text, c.reply === "Replied" ? replyIn(c.reply_hours) : c.reply, c.waiting_days ?? "", c.alert]; })));
+    return;
+  }
   if (what === "reviews") {
     const rows = reviewRows(), tm = themeMap();
     download("superkalam-reviews.csv", [["Date", "Reviewer", "Rating", "Store", "Version", "Title", "Review", "Themes", "Critical", "Reply"]].concat(rows.map(r => [r.date, r.who, r.stars, r.store, r.version, r.title, r.text, r.themes.map(t => (tm[t] || {}).name || t).join("; "), r.critical ? D.taxonomy.critical_categories[r.critical.category] : "", r.reply])));
   } else {
     const B = S._brows || [];
-    download(`superkalam-breakdown-${S.group}-${S.bperiod ? S.bperiod.replace(/:/g, "_") : "all-time"}.csv`,[["Group", "Reviews", "Problems", "Requests", "Praise", "Average rating"]].concat(B.map(r => [r.label, r.reviews, r.problems, r.requests, r.praise, r.avg_rating])));
+    download(`superkalam-breakdown-${S.group}-${S.bperiod ? S.bperiod.replace(/:/g, "_") : "all-time"}.csv`,[["Group", "Reviews", "Problems", "Requests", "Praise", "Written-review rating"]].concat(B.map(r => [r.label, r.reviews, r.problems, r.requests, r.praise, r.avg_rating])));
   }
 }
 $("#scrim").addEventListener("click", closeOver);

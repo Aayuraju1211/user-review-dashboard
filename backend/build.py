@@ -301,7 +301,7 @@ def updates(rows, as_of: date, n_windows=6):
         else:
             s.append(f"{len(cur)} new reviews, {'up' if len(cur) > len(prev) else 'down'} from {len(prev)} in the previous fortnight.")
         if a is not None and pa is not None:
-            s.append(f"Average rating {a:.2f}, {'up from' if a > pa else 'down from' if a < pa else 'unchanged at'} {pa:.2f}." if a != pa else f"Average rating unchanged at {a:.2f}.")
+            s.append(f"Written-review rating {a:.2f}, {'up from' if a > pa else 'down from'} {pa:.2f}." if a != pa else f"Written-review rating unchanged at {a:.2f}.")
         if crit:
             cats = Counter(TAX["critical_categories"][r["critical"]["category"]].lower() for r in crit)
             unanswered = sum(1 for r in crit if r["reply"] == "No reply")

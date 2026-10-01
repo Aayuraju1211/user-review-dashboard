@@ -7140,5 +7140,44 @@
   "competitors": [],
   "sentiment": "negative",
   "labelled_by": "model:gemini/gemini-2.5-flash@p2"
+ },
+ "c60171b0-e400-4a87-83c8-d977841275cc": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "sentiment": "positive",
+  "labelled_by": "model:gemini/gemini-3.5-flash@p2"
+ },
+ "26e24de7-3a69-44c8-9fd7-fcea53b30987": {
+  "mentions": [
+   {
+    "theme": "mcq_quality",
+    "evidence": "Very proactive updation of practice questions"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "Evaluation is solid, with a lot of value addition"
+   },
+   {
+    "theme": "pyq_practice",
+    "evidence": "Great repository of PYQs"
+   },
+   {
+    "theme": "responsive_team",
+    "evidence": "very responsive and helpful support team"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [
+   "paid"
+  ],
+  "competitors": [],
+  "sentiment": "positive",
+  "labelled_by": "model:gemini/gemini-3.5-flash@p2"
  }
 }

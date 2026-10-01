@@ -2854,5 +2854,98 @@
     "platform": "Google Play",
     "type": "added",
     "detected_at": "2026-09-28T10:21:31.940907+00:00"
+  },
+  {
+    "review_id": "26e24de7-3a69-44c8-9fd7-fcea53b30987",
+    "platform": "Google Play",
+    "type": "added",
+    "detected_at": "2026-10-01T09:44:12.864316+00:00"
+  },
+  {
+    "review_id": "c60171b0-e400-4a87-83c8-d977841275cc",
+    "platform": "Google Play",
+    "type": "added",
+    "detected_at": "2026-10-01T09:44:12.864316+00:00"
+  },
+  {
+    "review_id": "4ee9cc78-7868-4228-9968-a207cb3d5b05",
+    "platform": "Google Play",
+    "type": "reply_added",
+    "field": "has_developer_reply",
+    "old": false,
+    "new": true,
+    "detected_at": "2026-10-01T09:44:12.864316+00:00"
+  },
+  {
+    "review_id": "4ee9cc78-7868-4228-9968-a207cb3d5b05",
+    "platform": "Google Play",
+    "type": "reply_added",
+    "field": "developer_reply_text",
+    "old": null,
+    "new": "Hi. You can evaluate your Hindi Mains answers on SuperKalam on the app & website. Remaining content will be brought soon as well. Do reach out on WhatsApp at 9319720944 for a small gift to try the Mains evaluation :)",
+    "detected_at": "2026-10-01T09:44:12.864316+00:00"
+  },
+  {
+    "review_id": "4ee9cc78-7868-4228-9968-a207cb3d5b05",
+    "platform": "Google Play",
+    "type": "reply_added",
+    "field": "developer_reply_date",
+    "old": null,
+    "new": "2026-09-29T04:53:26+00:00",
+    "detected_at": "2026-10-01T09:44:12.864316+00:00"
+  },
+  {
+    "review_id": "67b91280-873b-43a3-851d-6d64681cafb3",
+    "platform": "Google Play",
+    "type": "reply_added",
+    "field": "has_developer_reply",
+    "old": false,
+    "new": true,
+    "detected_at": "2026-10-01T09:44:12.864316+00:00"
+  },
+  {
+    "review_id": "67b91280-873b-43a3-851d-6d64681cafb3",
+    "platform": "Google Play",
+    "type": "reply_added",
+    "field": "developer_reply_text",
+    "old": null,
+    "new": "Glad you liked it, Mukesh! 😊 Strong fundamentals really do make the rest of the prep much easier. Keep at it, and all the best! 💪",
+    "detected_at": "2026-10-01T09:44:12.864316+00:00"
+  },
+  {
+    "review_id": "67b91280-873b-43a3-851d-6d64681cafb3",
+    "platform": "Google Play",
+    "type": "reply_added",
+    "field": "developer_reply_date",
+    "old": null,
+    "new": "2026-09-29T09:02:13+00:00",
+    "detected_at": "2026-10-01T09:44:12.864316+00:00"
+  },
+  {
+    "review_id": "c9ce8100-06d5-4b2f-87cd-92ad48fd2b76",
+    "platform": "Google Play",
+    "type": "reply_added",
+    "field": "has_developer_reply",
+    "old": false,
+    "new": true,
+    "detected_at": "2026-10-01T09:44:12.864316+00:00"
+  },
+  {
+    "review_id": "c9ce8100-06d5-4b2f-87cd-92ad48fd2b76",
+    "platform": "Google Play",
+    "type": "reply_added",
+    "field": "developer_reply_text",
+    "old": null,
+    "new": "Thanks for the kind words! 😊 Glad you’re finding SuperKalam useful for your UPSC prep. Wishing you the very best for your journey ahead! 🚀",
+    "detected_at": "2026-10-01T09:44:12.864316+00:00"
+  },
+  {
+    "review_id": "c9ce8100-06d5-4b2f-87cd-92ad48fd2b76",
+    "platform": "Google Play",
+    "type": "reply_added",
+    "field": "developer_reply_date",
+    "old": null,
+    "new": "2026-09-29T09:02:32+00:00",
+    "detected_at": "2026-10-01T09:44:12.864316+00:00"
   }
 ]

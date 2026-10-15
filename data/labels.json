@@ -7179,5 +7179,96 @@
   "competitors": [],
   "sentiment": "positive",
   "labelled_by": "model:gemini/gemini-3.5-flash@p2"
+ },
+ "b750cd10-bec5-4d98-bad6-d6fc8d9c679c": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "sentiment": "positive",
+  "labelled_by": "model:gemini/gemini-3.5-flash@p2"
+ },
+ "f6750655-8efa-4768-9188-e04c27afb4a9": {
+  "mentions": [
+   {
+    "theme": "daily_targets",
+    "evidence": "helped me stay motivated and consistent"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "sentiment": "positive",
+  "labelled_by": "model:gemini/gemini-3.5-flash@p2"
+ },
+ "11a8e11e-1129-4166-a201-ff08f99d5834": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "sentiment": "positive",
+  "labelled_by": "model:gemini/gemini-3.5-flash@p2"
+ },
+ "61e72b02-0865-4c39-8d3a-525890be6d63": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "sentiment": "positive",
+  "labelled_by": "model:gemini/gemini-3.5-flash@p2"
+ },
+ "7fd22e67-ab6e-4791-b265-d61ffc3e86c7": {
+  "mentions": [
+   {
+    "theme": "daily_targets",
+    "evidence": "helps a lot in maintaining consistency"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "sentiment": "positive",
+  "labelled_by": "model:gemini/gemini-3.5-flash@p2"
+ },
+ "30a094d1-9a3c-453d-963b-318c0d619988": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "makes UPSC preparation much more structured"
+   },
+   {
+    "theme": "mcq_quality",
+    "evidence": "topic-wise MCQs"
+   },
+   {
+    "theme": "pyq_practice",
+    "evidence": "PYQs"
+   },
+   {
+    "theme": "ai_doubts",
+    "evidence": "instant doubt resolution"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "feedback on Mains answers"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "sentiment": "positive",
+  "labelled_by": "model:gemini/gemini-3.5-flash@p2"
  }
 }

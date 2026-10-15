@@ -2947,5 +2947,41 @@
     "old": null,
     "new": "2026-09-29T09:02:32+00:00",
     "detected_at": "2026-10-01T09:44:12.864316+00:00"
+  },
+  {
+    "review_id": "30a094d1-9a3c-453d-963b-318c0d619988",
+    "platform": "Google Play",
+    "type": "added",
+    "detected_at": "2026-10-15T07:49:31.883413+00:00"
+  },
+  {
+    "review_id": "7fd22e67-ab6e-4791-b265-d61ffc3e86c7",
+    "platform": "Google Play",
+    "type": "added",
+    "detected_at": "2026-10-15T07:49:31.883413+00:00"
+  },
+  {
+    "review_id": "61e72b02-0865-4c39-8d3a-525890be6d63",
+    "platform": "Google Play",
+    "type": "added",
+    "detected_at": "2026-10-15T07:49:31.883413+00:00"
+  },
+  {
+    "review_id": "11a8e11e-1129-4166-a201-ff08f99d5834",
+    "platform": "Google Play",
+    "type": "added",
+    "detected_at": "2026-10-15T07:49:31.883413+00:00"
+  },
+  {
+    "review_id": "f6750655-8efa-4768-9188-e04c27afb4a9",
+    "platform": "Google Play",
+    "type": "added",
+    "detected_at": "2026-10-15T07:49:31.883413+00:00"
+  },
+  {
+    "review_id": "b750cd10-bec5-4d98-bad6-d6fc8d9c679c",
+    "platform": "Google Play",
+    "type": "added",
+    "detected_at": "2026-10-15T07:49:31.883413+00:00"
   }
 ]

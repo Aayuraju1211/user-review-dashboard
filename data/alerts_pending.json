@@ -1,8 +1,19 @@
 {
- "generated_for": "2026-10-15",
- "count": 1,
- "subject": "SuperKalam reviews: 1 critical review without a reply",
+ "generated_for": "2026-11-01",
+ "count": 2,
+ "subject": "SuperKalam reviews: 2 critical reviews without a reply",
  "reviews": [
+  {
+   "review_id": "ca1fdaa8-c60e-45a6-a439-1d513f7f78de",
+   "reviewer": "Simran Kumari",
+   "stars": 1,
+   "date": "2026-10-28",
+   "category": "Paid feature not delivered",
+   "evidence": "unable to access the feature I paid for",
+   "text": "I regret purchasing the SuperKalam subscription because the app is not available on laptops, and when I log in through Google Chrome, many of its features are disabled. This is really disappointing. At the very least, all the features should be available when accessing the platform through a browser. I am extremely disappointed with this experience. I do will not renew or purchase another subscription in the future . My money feels wasted because I unable to access the feature I paid for",
+   "waiting_days": 4,
+   "reminder": false
+  },
   {
    "review_id": "3891a2eb-e718-4c59-8104-c8c051b0bc91",
    "reviewer": "Vipul Chaudhari",
@@ -11,7 +22,7 @@
    "category": "Locked out",
    "evidence": "Your App is Properly Not Working",
    "text": "please check the Your App is Properly Not Working please check This 🙏🏻",
-   "waiting_days": 146,
+   "waiting_days": 163,
    "reminder": false
   }
  ]

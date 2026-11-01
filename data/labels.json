@@ -7270,5 +7270,138 @@
   "competitors": [],
   "sentiment": "positive",
   "labelled_by": "model:gemini/gemini-3.5-flash@p2"
+ },
+ "e2ff8b5c-d51c-4de2-aa71-6ac403995630": {
+  "mentions": [
+   {
+    "theme": "all_in_one",
+    "evidence": "one stop solutions"
+   },
+   {
+    "theme": "pyq_practice",
+    "evidence": "pyqs"
+   },
+   {
+    "theme": "mcq_quality",
+    "evidence": "mcqs practice"
+   },
+   {
+    "theme": "eval_quality",
+    "evidence": "answer writing evaluation"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "sentiment": "positive",
+  "labelled_by": "model:gemini/gemini-3.5-flash@p2"
+ },
+ "9a9d5712-c4b4-492c-8bcd-9ab2abd23ea4": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "sentiment": "positive",
+  "labelled_by": "model:gemini/gemini-3.5-flash@p2"
+ },
+ "cdaa585d-4d3a-4aae-b12b-23d5069841ad": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "help ncert"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "sentiment": "positive",
+  "labelled_by": "model:gemini/gemini-3.5-flash@p2"
+ },
+ "7ffeb06b-bb67-4969-8993-c8dbbb36728f": {
+  "mentions": [
+   {
+    "theme": "eval_speed",
+    "evidence": "gives me checked copy instantly"
+   },
+   {
+    "theme": "pyq_practice",
+    "evidence": "pyq solving"
+   },
+   {
+    "theme": "easy_ui",
+    "evidence": "app is user friendly"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "sentiment": "positive",
+  "labelled_by": "model:gemini/gemini-3.5-flash@p2"
+ },
+ "ca1fdaa8-c60e-45a6-a439-1d513f7f78de": {
+  "mentions": [
+   {
+    "theme": "desktop_app",
+    "evidence": "app is not available on laptops"
+   },
+   {
+    "theme": "web_parity",
+    "evidence": "when I log in through Google Chrome, many of its features are disabled"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": {
+   "category": "paid_feature_missing",
+   "evidence": "unable to access the feature I paid for"
+  },
+  "segments": [
+   "paid",
+   "desktop"
+  ],
+  "competitors": [],
+  "sentiment": "negative",
+  "labelled_by": "model:gemini/gemini-3.5-flash@p2"
+ },
+ "e17edce5-a262-475f-a946-6578765f2a72": {
+  "mentions": [
+   {
+    "theme": "study_modules",
+    "evidence": "clear up my concepts very effectively"
+   },
+   {
+    "theme": "mcq_quality",
+    "evidence": "MCQs"
+   },
+   {
+    "theme": "pyq_practice",
+    "evidence": "PYQs practice"
+   }
+  ],
+  "low_context": false,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "sentiment": "positive",
+  "labelled_by": "model:gemini/gemini-3.5-flash@p2"
+ },
+ "56d23e75-2dd8-4149-a8fd-3036036e7b5f": {
+  "mentions": [],
+  "low_context": true,
+  "rating_mismatch": false,
+  "critical": null,
+  "segments": [],
+  "competitors": [],
+  "sentiment": "positive",
+  "labelled_by": "model:gemini/gemini-3.5-flash@p2"
  }
 }
